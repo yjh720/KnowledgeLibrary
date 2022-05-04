@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "投资/投资心得.md",
+            "file": "投资/指数基金.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投资/投资心得.md",
+                "file": "投资/指数基金.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "b1161d23216bd69c",
   "lastOpenFiles": [
-    "投资/投资心得.md",
+    "投资/指数基金.md",
     "读书笔记/股票作手回忆录.md",
+    "投资/投资心得.md",
     "Workflow/DailyTask/2022/April/2022-04-26.md",
     "C#/ABP/ABP.md",
     "C#/第三方库/QuestPDF.md",
     "Pasted image 20220429153741.png",
     "C#/WPF/MvvmLight的数据绑定.md",
     "C#/WPF/深入浅出WPF.md",
-    "C#/WPF/Margin规则.md",
-    "日记/2022-05-03.md"
+    "C#/WPF/Margin规则.md"
   ]
 }

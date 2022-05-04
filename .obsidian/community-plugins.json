@@ -2,5 +2,7 @@
   "quickadd",
   "templater-obsidian",
   "obsidian-annotator",
-  "obsidian-git"
+  "obsidian-git",
+  "media-extended",
+  "mx-bili-plugin"
 ]
