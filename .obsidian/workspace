@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "62727b6fea2b7664",
+        "id": "b1161d23216bd69c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "C#/第三方库/QuestPDF.md",
-            "mode": "source",
-            "source": false
+            "file": "读书笔记/股票作手回忆录.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/第三方库/QuestPDF.md",
+                "file": "读书笔记/股票作手回忆录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +94,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62727b6fea2b7664",
+  "active": "b1161d23216bd69c",
   "lastOpenFiles": [
+    "读书笔记/股票作手回忆录.md",
+    "Workflow/DailyTask/2022/April/2022-04-26.md",
+    "C#/ABP/ABP.md",
     "C#/第三方库/QuestPDF.md",
     "Pasted image 20220429153741.png",
     "C#/WPF/MvvmLight的数据绑定.md",
     "C#/WPF/深入浅出WPF.md",
     "C#/WPF/Margin规则.md",
     "日记/2022-05-03.md",
-    "C#/ABP/ABP.md",
-    "C#/ABP/ABP安装.md",
-    "C#/ABP/CreateMap ConvertUsing()和ConstructUsing().md",
-    "日记/2022-05-02.md"
+    "C#/ABP/ABP安装.md"
   ]
 }
