@@ -79,17 +79,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "7c149afcef6333bc",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,8 +90,8 @@
   "active": "b1161d23216bd69c",
   "lastOpenFiles": [
     "投资/指数基金.md",
-    "读书笔记/股票作手回忆录.md",
     "投资/投资心得.md",
+    "读书笔记/股票作手回忆录.md",
     "Workflow/DailyTask/2022/April/2022-04-26.md",
     "C#/ABP/ABP.md",
     "C#/第三方库/QuestPDF.md",

@@ -1,1 +1,10 @@
-{}
+{
+  "media-extended:take-rec-timestamp": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
+}
