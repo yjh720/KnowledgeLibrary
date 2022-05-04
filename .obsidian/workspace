@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d0cddb5c8fc3cf92",
+        "id": "62727b6fea2b7664",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/林格离职聊天.md",
+            "file": "C#/WPF/MvvmLight的数据绑定.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/林格离职聊天.md",
+                "file": "C#/WPF/MvvmLight的数据绑定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,25 +79,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7c149afcef6333bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d0cddb5c8fc3cf92",
+  "active": "62727b6fea2b7664",
   "lastOpenFiles": [
-    "Workflow/人事/林格离职聊天.md",
-    "Workflow/人事/招聘要求.md",
-    "Workflow/DailyTask/2022/April/2022-04-25.md",
-    "Workflow/DailyTask/2022/April/2022-04-24.md",
-    "Workflow/项目/焊接标准品/0424周工聊天内容.md",
-    "C#/依赖注入.md",
-    "Templates/DailyTask Template.md",
-    "C#/ABP/ABP框架.md",
-    "Workflow/Obisidian使用指南/模板.md",
-    "Workflow/Obisidian使用指南/双向链接.md"
+    "C#/WPF/MvvmLight的数据绑定.md",
+    "C#/WPF/深入浅出WPF.md",
+    "C#/WPF/Margin规则.md",
+    "日记/2022-05-03.md",
+    "C#/ABP/ABP.md",
+    "C#/ABP/ABP安装.md",
+    "C#/ABP/CreateMap ConvertUsing()和ConstructUsing().md",
+    "日记/2022-05-02.md",
+    "日记/2022-05-01.md",
+    "Workflow/DailyTask/2022/April/2022-04-29.md"
   ]
 }
