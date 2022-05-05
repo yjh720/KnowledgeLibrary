@@ -9,30 +9,11 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "投资/2022巴菲特股东大会.md",
+            "file": "Workflow/DailyTask/2022/May/2022-05-05.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "238e43e6465cdcb8"
-      },
-      {
-        "id": "802a5f7106446a84",
-        "type": "leaf",
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 1,
-              "id": "BV1tB4y117Rv",
-              "src": "https://www.bilibili.com/video/BV1tB4y117Rv?spm_id_from=333.851.b_7265636f6d6d656e64.1",
-              "iframe": "https://player.bilibili.com/player.html?bvid=BV1tB4y117Rv&high_quality=1&danmaku=0",
-              "hash": ""
-            },
-            "currentTime": 106.723007
-          }
-        },
-        "group": "238e43e6465cdcb8"
+        }
       }
     ],
     "direction": "vertical"
@@ -88,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投资/2022巴菲特股东大会.md",
+                "file": "Workflow/DailyTask/2022/May/2022-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +89,8 @@
   },
   "active": "b1161d23216bd69c",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/May/2022-05-05.md",
+    "未命名.md",
     "投资/2022巴菲特股东大会.md",
     "投资/基金经理.md",
     "投资/指数基金.md",
@@ -115,8 +98,6 @@
     "读书笔记/股票作手回忆录.md",
     "Workflow/DailyTask/2022/April/2022-04-26.md",
     "C#/ABP/ABP.md",
-    "C#/第三方库/QuestPDF.md",
-    "Pasted image 20220429153741.png",
-    "C#/WPF/MvvmLight的数据绑定.md"
+    "C#/第三方库/QuestPDF.md"
   ]
 }
