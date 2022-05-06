@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b1161d23216bd69c",
+        "id": "323d564b80a0bd34",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/项目/切割标准品/0506计划安排.md",
+            "file": "Workflow/人事/软件组人员安排.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/项目/切割标准品/0506计划安排.md",
+                "file": "Workflow/人事/软件组人员安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b1161d23216bd69c",
+  "active": "323d564b80a0bd34",
   "lastOpenFiles": [
+    "Workflow/人事/软件组人员安排.md",
+    "Workflow/人事/软件组人员安排.md",
     "Workflow/项目/切割标准品/0506计划安排.md",
     "Workflow/DailyTask/2022/May/2022-05-06.md",
     "投资/读书/量化投资技术分析实战.md",
@@ -96,8 +98,6 @@
     "投资/投资心得.md",
     "Workflow/DailyTask/2022/May/2022-05-05.md",
     "Workflow/其他/上位机配置.md",
-    "未命名.md",
-    "投资/2022巴菲特股东大会.md",
-    "投资/基金经理.md"
+    "未命名.md"
   ]
 }
