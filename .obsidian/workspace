@@ -79,17 +79,24 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "12b4460fee5fbb54",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "323d564b80a0bd34",
   "lastOpenFiles": [
-    "Workflow/人事/软件组人员安排.md",
     "Workflow/人事/软件组人员安排.md",
     "Workflow/项目/切割标准品/0506计划安排.md",
     "Workflow/DailyTask/2022/May/2022-05-06.md",
