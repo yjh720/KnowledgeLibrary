@@ -7,11 +7,9 @@
         "id": "323d564b80a0bd34",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Workflow/项目/切割标准品/0506计划安排.md",
-            "mode": "source",
-            "source": false
+            "file": "投资/读书/量化投资技术分析实战.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/项目/切割标准品/0506计划安排.md",
+                "file": "投资/读书/量化投资技术分析实战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +95,15 @@
   },
   "active": "323d564b80a0bd34",
   "lastOpenFiles": [
-    "Workflow/项目/切割标准品/0506计划安排.md",
+    "投资/读书/量化投资技术分析实战.md",
+    "投资/读书/股票作手回忆录.md",
+    "Workflow/人事/0506切割-焊接计划安排.md",
     "Workflow/DailyTask/2022/May/2022-05-06.md",
     "Workflow/人事/招聘/招聘要求.md",
     "Workflow/人事/林格离职聊天.md",
     "Workflow/人事/何幸鑫林格离职群公告.md",
     "Workflow/人事/2022-04-26文化奖惩提名.md",
     "Workflow/人事/软件组人员安排.md",
-    "投资/读书/量化投资技术分析实战.md",
-    "投资/读书/股票作手回忆录.md",
     "投资/投资心得.md"
   ]
 }
