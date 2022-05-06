@@ -7,11 +7,9 @@
         "id": "b1161d23216bd69c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-05.md",
-            "mode": "source",
-            "source": false
+            "file": "投资/读书/量化投资技术分析实战.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-05.md",
+                "file": "投资/读书/量化投资技术分析实战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "b1161d23216bd69c",
   "lastOpenFiles": [
+    "投资/读书/量化投资技术分析实战.md",
+    "投资/读书/股票作手回忆录.md",
+    "投资/投资心得.md",
     "Workflow/DailyTask/2022/May/2022-05-05.md",
     "Workflow/其他/上位机配置.md",
     "未命名.md",
     "投资/2022巴菲特股东大会.md",
     "投资/基金经理.md",
     "投资/指数基金.md",
-    "投资/投资心得.md",
-    "读书笔记/股票作手回忆录.md",
-    "Workflow/DailyTask/2022/April/2022-04-26.md",
-    "C#/ABP/ABP.md"
+    "Workflow/DailyTask/2022/April/2022-04-26.md"
   ]
 }
