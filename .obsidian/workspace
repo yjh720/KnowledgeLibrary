@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/ASP .Net Core 依赖注入.md",
+            "file": "C#/ABP/流程.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/ASP .Net Core 依赖注入.md",
+                "file": "C#/ABP/流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,10 +93,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "323d564b80a0bd34",
   "lastOpenFiles": [
+    "C#/ABP/流程.md",
     "C#/ASP .Net Core 依赖注入.md",
     "C#/依赖注入.md",
     "Workflow/DailyTask/2022/May/2022-05-06.md",
@@ -105,7 +107,6 @@
     "Workflow/人事/0506切割-焊接计划安排.md",
     "Workflow/人事/招聘/招聘要求.md",
     "Workflow/人事/林格离职聊天.md",
-    "Workflow/人事/何幸鑫林格离职群公告.md",
-    "Workflow/人事/2022-04-26文化奖惩提名.md"
+    "Workflow/人事/何幸鑫林格离职群公告.md"
   ]
 }
