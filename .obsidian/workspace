@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/依赖注入/什么是依赖注入.md",
+            "file": "C#/依赖注入/依赖注入.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/依赖注入/什么是依赖注入.md",
+                "file": "C#/依赖注入/依赖注入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,17 +79,8 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "12b4460fee5fbb54",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,15 +89,15 @@
   },
   "active": "323d564b80a0bd34",
   "lastOpenFiles": [
-    "C#/依赖注入/什么是依赖注入.md",
-    "C#/依赖注入/ASP .Net Core 依赖注入.md",
     "C#/依赖注入/依赖注入.md",
+    "C#/依赖注入/什么是依赖注入.md",
+    "Workflow/DailyTask/2022/May/2022-05-07.md",
+    "Workflow/DailyTask/2022/May/2022-05-06.md",
+    "Workflow/DailyTask/2022/May/2022-05-05.md",
+    "Workflow/DailyTask/2022/April/2022-04-29.md",
+    "C#/依赖注入/ASP .Net Core 依赖注入.md",
     "C#/依赖注入/依赖注入与对象间的关系.md",
     "C#/设计模式/深入模式设计.md",
-    "C#/ABP/流程.md",
-    "Workflow/DailyTask/2022/May/2022-05-06.md",
-    "投资/读书/量化投资技术分析实战.md",
-    "投资/读书/股票作手回忆录.md",
-    "Workflow/人事/0506切割-焊接计划安排.md"
+    "C#/ABP/流程.md"
   ]
 }
