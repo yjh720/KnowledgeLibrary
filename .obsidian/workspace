@@ -9,14 +9,14 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/依赖注入/依赖注入.md",
+            "file": "C#/依赖注入/依赖注入2.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "0e9120be77c1e8ba",
+        "id": "29ff76b0f9afd518",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-07.md",
+                "file": "C#/依赖注入/依赖注入2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0e9120be77c1e8ba",
+  "active": "323d564b80a0bd34",
   "lastOpenFiles": [
+    "C#/依赖注入/依赖注入2.md",
     "Workflow/DailyTask/2022/May/2022-05-07.md",
-    "C#/依赖注入/依赖注入.md",
+    "C#/依赖注入/依赖注入1.md",
     "C#/依赖注入/什么是依赖注入.md",
     "Workflow/DailyTask/2022/May/2022-05-06.md",
     "Workflow/DailyTask/2022/May/2022-05-05.md",
     "Workflow/DailyTask/2022/April/2022-04-29.md",
     "C#/依赖注入/ASP .Net Core 依赖注入.md",
     "C#/依赖注入/依赖注入与对象间的关系.md",
-    "C#/设计模式/深入模式设计.md",
-    "C#/ABP/流程.md"
+    "C#/设计模式/深入模式设计.md"
   ]
 }
