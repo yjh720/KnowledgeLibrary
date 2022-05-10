@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c30b849bf2b64a5e",
+        "id": "962c88c01a9938ac",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-10.md",
+            "file": "C#/设计模式/状态模式.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-10.md",
+                "file": "C#/设计模式/状态模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c30b849bf2b64a5e",
+  "active": "962c88c01a9938ac",
   "lastOpenFiles": [
+    "C#/设计模式/状态模式.md",
+    "C#/设计模式/深入模式设计.md",
     "Workflow/DailyTask/2022/May/2022-05-10.md",
     "Workflow/DailyTask/2022/May/2022-05-09.md",
     "Workflow/DailyTask/2022/May/2022-05-05.md",
@@ -96,8 +98,6 @@
     "Workflow/DailyTask/2022/May/2022-05-07.md",
     "C#/依赖注入/依赖注入1.md",
     "C#/依赖注入/依赖注入2.md",
-    "C#/依赖注入/什么是依赖注入.md",
-    "C#/设计模式/深入模式设计.md",
-    "C#/依赖注入/依赖注入与对象间的关系.md"
+    "C#/依赖注入/什么是依赖注入.md"
   ]
 }
