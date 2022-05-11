@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/ABP/流程.md",
+            "file": "C#/ABP/Module/Abp Module是什么.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/ABP/流程.md",
+                "file": "C#/ABP/Module/Abp Module是什么.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "d5eecb935d809d97",
   "lastOpenFiles": [
+    "C#/ABP/Module/Abp Module是什么.md",
+    "C#/ABP/Module/Abp Module启动.md",
     "C#/ABP/流程.md",
     "C.md",
     "Workflow/DailyTask/2022/May/2022-05-11.md",
@@ -108,8 +110,6 @@
     "Workflow/DailyTask/2022/May/2022-05-09.md",
     "Workflow/项目/切割标准品/UED评审.md",
     "C#/设计模式/状态模式.md",
-    "C#/设计模式/深入模式设计.md",
-    "Workflow/DailyTask/2022/May/2022-05-05.md",
-    "Workflow/DailyTask/2022/May/2022-05-06.md"
+    "C#/设计模式/深入模式设计.md"
   ]
 }
