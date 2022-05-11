@@ -4,6 +4,7 @@
 是否图纸格式规定几种统一的信息？
 不按模板选择报错
 
+导入，导出什么？导入和保存的区别？
 
 2. 添加清单
    ![](https://yjh-image.oss-cn-shanghai.aliyuncs.com/img/20220511101710.png)
