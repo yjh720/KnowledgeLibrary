@@ -3,5 +3,6 @@
   "livePreview": true,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "attachmentFolderPath": "Workflow/人事/招聘/黄鑫华"
 }
