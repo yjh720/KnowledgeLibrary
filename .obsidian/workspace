@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d5eecb935d809d97",
+        "id": "f725fde1b49c743b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-16.md",
+            "file": "Workflow/DailyTask/2022/May/2022-05-17.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "25824e21f2946ca9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/ABP/Assembly.GetExecutingAssembly().md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-16.md",
+                "file": "C#/ABP/Assembly.GetExecutingAssembly().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d5eecb935d809d97",
+  "active": "25824e21f2946ca9",
   "lastOpenFiles": [
+    "C#/ABP/Assembly.GetExecutingAssembly().md",
+    "Workflow/DailyTask/2022/May/2022-05-17.md",
     "Workflow/DailyTask/2022/May/2022-05-16.md",
     "C#/VisualStudio/生成前后事件.md",
-    "Workflow/DailyTask/2022/May/2022-05-17.md",
     "Workflow/DailyTask/2022/May/2022-05-13.md",
     "Workflow/人事/软件组人员安排.md",
     "Workflow/DailyTask/2022/May/2022-05-12.md",
     "Workflow/人事/招聘/黄鑫华/黄鑫华1面.md",
     "Workflow/人事/招聘/黄鑫华/黄鑫华2面.md",
-    "C#/ABP/Module/Abp Module启动.md",
-    "C#/ABP/Module/Abp Module是什么.md"
+    "C#/ABP/Module/Abp Module启动.md"
   ]
 }
