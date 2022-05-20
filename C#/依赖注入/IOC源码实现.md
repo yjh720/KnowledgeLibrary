@@ -21,7 +21,8 @@
 
 
 ```C#
-private Dictionary<string, object> icoContainer = new Dictionary<string, object>();
+private Dictionary<string, object> iocContainer = new Dictionary<string, object>();
+private Dictionary<string, Type> iocTypeContainer = new Dictionary<string, Type>();
 
 public DefaultFactory()
 {
@@ -46,6 +47,9 @@ public DefaultFactory()
 //3. 自己调用自己
 
 //缺陷
+//1. 性能偏低
+//2. 如果types有1000个对象，使用foreach循环找一个，性能下降
+//方案：空间换时间思想。用字典的空间换for循环的时间
 public object CreateObject(Type type, Type[] types)
 {
 	//1.创建对象
