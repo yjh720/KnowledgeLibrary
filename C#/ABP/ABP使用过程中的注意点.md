@@ -34,3 +34,20 @@
 </Window>
 ```
 
+3. 2种register是怎么使用的？
+```C#
+  public  class RhinoInsideAPIModule:AbpModule
+    {
+        public override void PreInitialize()
+        {
+            IocManager.Register<RhinoCoreWrapper>();
+        }
+        public override void Initialize()
+        {
+            IocManager.Resolve<RhinoCoreWrapper>();
+			 IocManager.RegisterAssemblyByConvention(Assembly.GetExecutingAssembly());
+        }
+
+       
+    }
+```
