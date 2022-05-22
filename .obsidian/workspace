@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-20.md",
+            "file": "日记/2022-05-22.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-20.md",
+                "file": "日记/2022-05-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "日记/2022-05-22.md",
     "Workflow/DailyTask/2022/May/2022-05-20.md",
     "C#/WPF/MvvmLight的数据绑定.md",
     "C#/依赖注入/IOC源码实现.md",
@@ -97,7 +98,6 @@
     "投资/指数基金.md",
     "投资/基金经理.md",
     "投资/读书/量化投资技术分析实战.md",
-    "C#/线程/Lock.md",
-    "Workflow/DailyTask/2022/May/2022-05-19.md"
+    "C#/线程/Lock.md"
   ]
 }
