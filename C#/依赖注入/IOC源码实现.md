@@ -21,54 +21,74 @@
 
 
 ```C#
-private Dictionary<string, object> iocContainer = new Dictionary<string, object>();
-private Dictionary<string, Type> iocTypeContainer = new Dictionary<string, Type>();
-
-public DefaultFactory()
+class DefaultFactory
 {
+	private Dictionary<string, object> iocContainer = new Dictionary<string, object>();
+	private Dictionary<string, Type> iocTypeContainer = new Dictionary<string, Type>();
 
-	Assembly assembly = Assembly.Load("xxx.xxx.xxx");
-	Type[] types = assembly.GetTypes();
-	foreach(var type in types)
+	public DefaultFactory()
 	{
-		//1.创建对象
-		object _object = CreateObject(type,types);
-		
-
-		//2.存储对象
-		//全限定名：命名空间+类名
-		iocContainer.Add(type.FullName, _object);
-	}
-}
-
-//递归
-//1. 在业务逻辑中，找到通用代码
-//2. 在通用代码中，找到通用参数
-//3. 自己调用自己
-
-//缺陷
-//1. 性能偏低
-//2. 如果types有1000个对象，使用foreach循环找一个，性能下降
-//方案：空间换时间思想。用字典的空间换for循环的时间
-public object CreateObject(Type type, Type[] types)
-{
-	//1.创建对象
-	object _object = Activator.CreateInstance(type);
 	
-	//1.1.对象属性赋值
-	PropertyInfo[] propertyInfos = type.GetProperties();
-	foreach(var propertyInfo in propertyInfos)
-	{
-		foreach(var t in types)
+		Assembly assembly = Assembly.Load("xxx.xxx.xxx");
+		Type[] types = assembly.GetTypes();
+		foreach(var type in types)
 		{
-			if(propertyInfo.PropertyType.Equals(t))
+			iocTypeContainer.Add(type.FullName, type);
+		}
+		
+		foreach(var type in types)
+		{
+			//特性标记，创建对象过滤,不是每个类都需要被实例化存储起来的
+			IOCService iocService = type.GetCustomAttribute<IOCService>();
+			if(iocService != null)
 			{
-				//包含依赖嵌套，递归
-				//Object _objectValue = Activator.CreateInstance(t);
-				Object _objectValue = CreatObject(t,types);
-				propertyInfo.SetValue(_object, _objectValue);
+				//1.创建对象
+				object _object = CreateObject(type,types);
+			
+	
+				//2.存储对象
+				//全限定名：命名空间+类名
+				iocContainer.Add(type.FullName, _object);
 			}
+			
 		}
 	}
+
+	//递归
+	//1. 在业务逻辑中，找到通用代码
+	//2. 在通用代码中，找到通用参数
+	//3. 自己调用自己
+	
+	//缺陷
+	//1. 性能偏低
+	//2. 如果types有1000个对象，使用foreach循环找一个，性能下降
+	//方案：空间换时间思想。用**字典**的空间换for循环的时间
+	//方案：时间换空间
+	public object CreateObject(Type type, Type[] types)
+	{
+		//1.创建对象
+		object _object = Activator.CreateInstance(type);
+		
+		//1.1.对象属性赋值
+		PropertyInfo[] propertyInfos = type.GetProperties();
+		foreach(var propertyInfo in propertyInfos)
+		{
+			Type t = iocTypeContainer[propertyInfo.PropertyType.FullName];
+			//包含依赖嵌套，递归
+			//Object _objectValue = Activator.CreateInstance(t);
+			Object _objectValue = CreatObject(t,types);
+			propertyInfo.SetValue(_object, _objectValue);
+		}
+		return _object;
+	}
+}
+```
+
+```C#
+static void Main(string[] args)
+{
+	DefaultFactory defaultIOCFactory = new DefaultFactory();
+	Student student = (Student)defaultIOCFactory.GetObject("RuanMou.ArchitectRelax.Student");
+	student.Study();
 }
 ```
