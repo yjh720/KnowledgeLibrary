@@ -39,13 +39,34 @@ public class RegistrationInfo { // ...一些属性 }
 
 **使用命名方法或 Lambda 进行注册**
 ```C#
-public UserControl() { InitializeComponent(); 
-// 使用命名方法进行注册 ---- 
-Loaded += Figure2ControlLoaded; 
-Messenger.Default.Register<AnyMessage>( this, HandleAnyMessage); 
-// 使用匿名 Lambda 进行注册 ---- 
-Loaded += (s, e) => { /* 执行某操作*/ }; 
-Messenger.Default.Register<AnyMessage>( this, message => { /* 执行某操作*/ }); 
-					  } 
-private void HandleAnyMessage(AnyMessage message) { // 执行某操作 } private void Figure2ControlLoaded (object sender, RoutedEventArgs e) { // 执行某操作 }
+
+public UserControl()
+{ 
+	InitializeComponent(); 
+	// 使用命名方法进行注册 ---- 
+	Loaded += Figure2ControlLoaded; 
+	Messenger.Default.Register<AnyMessage>( this, HandleAnyMessage); 
+	// 使用匿名 Lambda 进行注册 ---- 
+	Loaded += (s, e) => { /*执行某操作*/ }; 
+	Messenger.Default.Register<AnyMessage>( this, message => { /* 执行某操作*/ }); 
+} 
+
+private void HandleAnyMessage(AnyMessage message) 
+{ 
+	/*执行某操作*/ 
+}
+
+private void Figure2ControlLoaded (object sender, RoutedEventArgs e)
+{
+	/* 执行某操作*/ 
+}
 ```
+
+就会知道如果某线程上运行的对象试图访问另一线程上的对象，则需要采取一些防范措施。
+
+
+
+[MVVM中的Messenger_yulongguiziyao的博客-CSDN博客](https://blog.csdn.net/yulongguiziyao/article/details/19075037)
+
+在开发[Wpf](https://so.csdn.net/so/search?q=Wpf&spm=1001.2101.3001.7020)/SL应用时，经常会遇到不同页面和窗体之间的参数传递的问题。对于这类问题，我们一般通过事件实现数据传递，也可以定义全局静态变量来进行数据共享。这里我们则使用了另外一种非常高效而优雅的方法来进行消息传递，这里我称之为Messenger，事实上，Messenger并非mvvm的专利，我们可以把它看作一种设计模式，你可以在其它.net程序中使用它。
+
