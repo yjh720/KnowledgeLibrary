@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-27.md",
+            "file": "Workflow/人事/招聘/熊桓.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-27.md",
+                "file": "Workflow/人事/招聘/熊桓.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/熊桓.md",
     "Workflow/DailyTask/2022/May/2022-05-27.md",
     "Workflow/DailyTask/2022/May/2022-05-26.md",
     "C#/依赖注入/IOC源码实现.md",
@@ -97,7 +98,6 @@
     "C#/线程/Lock.md",
     "C#/异步/异步中使用out ref.md",
     "C#/ABP/流程.md",
-    "C#/ABP/Assembly.GetExecutingAssembly().md",
-    "C#/ABP/ABP使用过程中的注意点.md"
+    "C#/ABP/Assembly.GetExecutingAssembly().md"
   ]
 }
