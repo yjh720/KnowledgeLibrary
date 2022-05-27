@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-27.md",
+            "file": "C#/WPF/Mvvm/Messenger.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-27.md",
+                "file": "C#/WPF/Mvvm/Messenger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "C#/WPF/Mvvm/Messenger.md",
+    "C#/WPF/Mvvm/DispatcherHelper.md",
     "Workflow/DailyTask/2022/May/2022-05-27.md",
     "Workflow/人事/招聘/熊桓.md",
     "Workflow/DailyTask/2022/May/2022-05-26.md",
@@ -96,8 +98,6 @@
     "Workflow/DailyTask/2022/May/2022-05-24.md",
     "Workflow/DailyTask/2022/May/2022-05-25.md",
     "C#/线程/Lock.md",
-    "C#/异步/异步中使用out ref.md",
-    "C#/ABP/流程.md",
-    "C#/ABP/Assembly.GetExecutingAssembly().md"
+    "C#/异步/异步中使用out ref.md"
   ]
 }
