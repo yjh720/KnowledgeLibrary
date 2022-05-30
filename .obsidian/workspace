@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/陈哲.md",
+            "file": "C#/WPF/Mvvm/Messenger使用方法介绍.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/陈哲.md",
+                "file": "C#/WPF/Mvvm/Messenger使用方法介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "C#/WPF/Mvvm/Messenger使用方法介绍.md",
     "Workflow/人事/招聘/陈哲.md",
     "Workflow/DailyTask/2022/May/2022-05-30.md",
     "Workflow/人事/招聘/路涛.md",
@@ -97,7 +98,6 @@
     "Workflow/人事/软件组人员安排.md",
     "日记/2022-05-28.md",
     "Git/fork分支同步远程方法.md",
-    "Workflow/人事/招聘/侯晓轩.md",
-    "Workflow/DailyTask/2022/May/2022-05-27.md"
+    "Workflow/人事/招聘/侯晓轩.md"
   ]
 }
