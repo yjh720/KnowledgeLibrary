@@ -7,9 +7,11 @@
         "id": "1819340ca5478a9b",
         "type": "leaf",
         "state": {
-          "type": "pdf-annotator",
+          "type": "markdown",
           "state": {
-            "file": "C#/WPF/深入浅出WPF.md"
+            "file": "Workflow/人事/招聘/沈浩-发那科.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF/深入浅出WPF.md",
+                "file": "Workflow/人事/招聘/沈浩-发那科.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +89,8 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/沈浩-发那科.md",
     "C#/WPF/深入浅出WPF.md",
-    "Workflow/人事/招聘/沈先生-发那科.md",
     "Workflow/DailyTask/2022/June/2022-06-01.md",
     "Workflow/DailyTask/2022/June.md",
     "Workflow/DailyTask/2022/May/2022-05-31.md",
