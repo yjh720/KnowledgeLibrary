@@ -7,11 +7,9 @@
         "id": "1819340ca5478a9b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Workflow/DailyTask/2022/June/2022-06-01.md",
-            "mode": "source",
-            "source": false
+            "file": "C#/WPF/深入浅出WPF.md"
           }
         }
       }
@@ -53,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 248
   },
   "right": {
     "id": "8c56449f67c52c47",
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/June/2022-06-01.md",
+                "file": "C#/WPF/深入浅出WPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +87,8 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "C#/WPF/深入浅出WPF.md",
+    "Workflow/人事/招聘/沈先生-发那科.md",
     "Workflow/DailyTask/2022/June/2022-06-01.md",
     "Workflow/DailyTask/2022/June.md",
     "Workflow/DailyTask/2022/May/2022-05-31.md",
@@ -96,8 +96,6 @@
     "C#/WPF/ComboBox绑定枚举类型.md",
     "Workflow/项目/切割标准品/测试软件UI设计.md",
     "Workflow/DailyTask/2022/May/2022-05-29.md",
-    "Workflow/DailyTask/2022/May/2022-05-30.md",
-    "C#/依赖注入/注入泛型类-列表.md",
-    "C#/WPF/Mvvm/Messenger使用方法介绍.md"
+    "Workflow/DailyTask/2022/May/2022-05-30.md"
   ]
 }
