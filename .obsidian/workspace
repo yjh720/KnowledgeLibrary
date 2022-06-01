@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/May/2022-05-31.md",
+            "file": "Workflow/DailyTask/2022/June/2022-06-01.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/May/2022-05-31.md",
+                "file": "Workflow/DailyTask/2022/June/2022-06-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/June/2022-06-01.md",
+    "Workflow/DailyTask/2022/June.md",
     "Workflow/DailyTask/2022/May/2022-05-31.md",
     "Workflow/人事/招聘/谷夏绿.md",
     "C#/WPF/ComboBox绑定枚举类型.md",
@@ -96,8 +98,6 @@
     "Workflow/DailyTask/2022/May/2022-05-29.md",
     "Workflow/DailyTask/2022/May/2022-05-30.md",
     "C#/依赖注入/注入泛型类-列表.md",
-    "C#/WPF/Mvvm/Messenger使用方法介绍.md",
-    "Workflow/人事/招聘/陈哲.md",
-    "Workflow/人事/招聘/路涛.md"
+    "C#/WPF/Mvvm/Messenger使用方法介绍.md"
   ]
 }
