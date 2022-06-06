@@ -90,6 +90,7 @@
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
     "Workflow/DailyTask/2022/June/2022-06-06.md",
+    "Git/fork分支同步远程方法.md",
     "Workflow/人事/招聘/杨玲玲.md",
     "C#/Helix/教程总纲.md",
     "C#/运算符/Null 条件运算符.md",
@@ -97,7 +98,6 @@
     "C#/设计模式/深入模式设计.md",
     "C#/设计模式/状态模式.md",
     "Workflow/DailyTask/2022/June/2022-06-02.md",
-    "C#/依赖注入/注入泛型类-列表.md",
-    "Workflow/项目/切割标准品/测试软件UI设计.md"
+    "C#/依赖注入/注入泛型类-列表.md"
   ]
 }
