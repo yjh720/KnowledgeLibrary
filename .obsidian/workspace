@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/齐晨阳.md",
+            "file": "Workflow/人事/招聘/汪岑.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "8c56449f67c52c47",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/齐晨阳.md",
+                "file": "Workflow/人事/招聘/汪岑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/汪岑.md",
     "Workflow/人事/招聘/齐晨阳.md",
     "Workflow/DailyTask/2022/June/2022-06-08.md",
     "Workflow/DailyTask/2022/June/2022-06-07.md",
@@ -97,7 +99,6 @@
     "Git/fork分支同步远程方法.md",
     "Workflow/人事/招聘/杨玲玲.md",
     "C#/Helix/教程总纲.md",
-    "C#/运算符/Null 条件运算符.md",
-    "C#/设计模式/行为模式.md"
+    "C#/运算符/Null 条件运算符.md"
   ]
 }
