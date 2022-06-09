@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/汪岑.md",
+            "file": "Workflow/人事/招聘/沈浩-发那科.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254,
-    "collapsed": true
+    "width": 254
   },
   "right": {
     "id": "8c56449f67c52c47",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/汪岑.md",
+                "file": "Workflow/人事/招聘/沈浩-发那科.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/沈浩-发那科.md",
+    "Workflow/人事/招聘/路涛.md",
+    "Workflow/人事/招聘/侯晓轩.md",
+    "Workflow/人事/招聘/熊桓.md",
+    "Workflow/人事/招聘/查劲武.md",
+    "Workflow/人事/招聘/蔡程键.md",
     "Workflow/人事/招聘/汪岑.md",
     "Workflow/人事/招聘/齐晨阳.md",
     "Workflow/DailyTask/2022/June/2022-06-08.md",
-    "Workflow/DailyTask/2022/June/2022-06-07.md",
-    "Workflow/人事/招聘/陈哲.md",
-    "Workflow/DailyTask/2022/June/2022-06-06.md",
-    "Git/fork分支同步远程方法.md",
-    "Workflow/人事/招聘/杨玲玲.md",
-    "C#/Helix/教程总纲.md",
-    "C#/运算符/Null 条件运算符.md"
+    "Workflow/DailyTask/2022/June/2022-06-07.md"
   ]
 }
