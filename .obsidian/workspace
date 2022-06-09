@@ -7,11 +7,9 @@
         "id": "1819340ca5478a9b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
-            "mode": "source",
-            "source": false
+            "file": "管理/人件.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
+                "file": "管理/人件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "管理/人件.md",
+    "C#/WPF/深入浅出WPF.md",
+    "C.md",
+    "Pasted image 20220511101507.png",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
     "Workflow/DailyTask/2022/June/2022-06-08.md",
     "Workflow/DailyTask/2022/June/2022-06-09.md",
     "Workflow/人事/招聘/夏德意.md",
     "Workflow/人事/招聘/任达文.md",
-    "Workflow/人事/招聘/沈浩-发那科.md",
-    "Workflow/人事/招聘/路涛.md",
-    "Workflow/人事/招聘/侯晓轩.md",
-    "Workflow/人事/招聘/熊桓.md",
-    "Workflow/人事/招聘/查劲武.md"
+    "Workflow/人事/招聘/沈浩-发那科.md"
   ]
 }
