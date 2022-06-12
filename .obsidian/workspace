@@ -7,11 +7,9 @@
         "id": "1819340ca5478a9b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Workflow/人事/招聘/齐晨阳.md",
-            "mode": "source",
-            "source": false
+            "file": "投资/读书/量化投资技术分析实战.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/齐晨阳.md",
+                "file": "投资/读书/量化投资技术分析实战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +87,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
-    "Workflow/人事/招聘/齐晨阳.md",
+    "投资/读书/量化投资技术分析实战.md",
+    "投资/读书/股票作手回忆录.md",
+    "投资/2022巴菲特股东大会.md",
+    "投资/基金经理.md",
+    "投资/指数基金.md",
+    "书/量化投资以Python为工具--重要.pdf",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
+    "Workflow/人事/招聘/齐晨阳.md",
     "Workflow/DailyTask/2022/June/2022-06-10.md",
-    "Workflow/项目/切割标准品/测试软件UI设计.md",
-    "Workflow/项目/切割标准品/UED评审.md",
-    "管理/人月神话.md",
-    "管理/人件.md",
-    "C#/WPF/深入浅出WPF.md",
-    "C.md",
-    "Pasted image 20220511101507.png"
+    "Workflow/项目/切割标准品/测试软件UI设计.md"
   ]
 }
