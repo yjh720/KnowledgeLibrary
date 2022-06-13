@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf-annotator",
           "state": {
-            "file": "投资/读书/量化投资技术分析实战.md"
+            "file": "C#/ABP/ABP.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投资/读书/量化投资技术分析实战.md",
+                "file": "C#/ABP/ABP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "C#/ABP/ABP.md",
+    "C#/ABP/流程.md",
+    "管理/人月神话.md",
     "投资/读书/量化投资技术分析实战.md",
     "投资/读书/股票作手回忆录.md",
     "投资/2022巴菲特股东大会.md",
     "投资/基金经理.md",
     "投资/指数基金.md",
     "书/量化投资以Python为工具--重要.pdf",
-    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
-    "Workflow/人事/招聘/齐晨阳.md",
-    "Workflow/DailyTask/2022/June/2022-06-10.md",
-    "Workflow/项目/切割标准品/测试软件UI设计.md"
+    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md"
   ]
 }
