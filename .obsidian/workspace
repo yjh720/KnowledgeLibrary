@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/线程/多线程.md",
+            "file": "C#/WPF/Dispatcher.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/线程/多线程.md",
+                "file": "C#/WPF/Dispatcher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "C#/WPF/Dispatcher.md",
     "C#/线程/多线程.md",
     "Workflow/DailyTask/2022/June/2022-06-16.md",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
@@ -97,7 +98,6 @@
     "C#/ABP/流程.md",
     "管理/人月神话.md",
     "投资/读书/量化投资技术分析实战.md",
-    "投资/读书/股票作手回忆录.md",
-    "投资/2022巴菲特股东大会.md"
+    "投资/读书/股票作手回忆录.md"
   ]
 }
