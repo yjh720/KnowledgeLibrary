@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/June/2022-06-21.md",
+            "file": "管理/Scrum.md",
             "mode": "source",
             "source": false
           }
@@ -31,7 +31,7 @@
               "src": "https://www.youtube.com/watch?v=-wTRU-LKgEY",
               "hash": ""
             },
-            "currentTime": 111.247112
+            "currentTime": 144.446724
           }
         },
         "group": "285e5493da2cbaca"
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/June/2022-06-21.md",
+                "file": "管理/Scrum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +110,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "管理/Scrum.md",
+    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
+    "Workflow/项目/切割标准品/现场端逻辑梳理.md",
     "Workflow/DailyTask/2022/June/2022-06-21.md",
-    "管理/Scrum vs waterfall.md",
     "Tron/logo申请.md",
     "Workflow/DailyTask/2022/June/2022-06-20.md",
-    "Workflow/项目/切割标准品/现场端逻辑梳理.md",
     "Workflow/DailyTask/2022/June/2022-06-17.md",
     "C#/WPF/Dispatcher.md",
     "C#/线程/多线程.md",
-    "Workflow/DailyTask/2022/June/2022-06-16.md",
-    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md"
+    "Workflow/DailyTask/2022/June/2022-06-16.md"
   ]
 }

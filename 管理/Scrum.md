@@ -47,7 +47,7 @@ Product Backlog：产品代办列表，唯一负责人是Product Owner。
 > I need xxx
 > So that xxx
 
-Sprint Backlog：比用户故事更高一层的“用户故事”
+Sprint Backlog：
 
 Burndown Chart：
 
