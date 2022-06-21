@@ -79,3 +79,28 @@ Sprint Review，Retrospective
 1. Waht：在这一个Sprint里面要做什么？
 2. How：这些条目怎么做，如何实现？
 
+产出：
+Sprint Goal
+
+Sprint Backlog，白板，to do， doing done
+开发团队每天需要对着白板进行daily srcum，每个团队成员需要回答3个问题：昨天完成了什么，今天需要做什么，在这中间遇到了什么问题
+
+Increment：最后的成果
+
+Sprint Review：对产品本身的review
+
+Sprint Retrospective：对团队的review，哪些地方做的好，哪些地方需要改进，针对工作流程，工作方法
+
+
+## 5 价值观
+Openness
+Courage
+Commitment
+Respect
+Focus
+
+
+# Feedback
+Daily Scrum每日反馈
+Sprint Review产品的反馈
+Sprint Retrospective对于工作流程工作方法的反馈
