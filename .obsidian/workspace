@@ -6,6 +6,7 @@
       {
         "id": "1819340ca5478a9b",
         "type": "leaf",
+        "dimension": 35.07767784137367,
         "state": {
           "type": "markdown",
           "state": {
@@ -13,7 +14,27 @@
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "285e5493da2cbaca"
+      },
+      {
+        "id": "2ac758e148961f82",
+        "type": "leaf",
+        "dimension": 64.92232215862633,
+        "state": {
+          "type": "media-view",
+          "state": {
+            "info": {
+              "host": 0,
+              "id": "-wTRU-LKgEY",
+              "iframe": "https://www.youtube.com/embed/-wTRU-LKgEY",
+              "src": "https://www.youtube.com/watch?v=-wTRU-LKgEY",
+              "hash": ""
+            },
+            "currentTime": 111.247112
+          }
+        },
+        "group": "285e5493da2cbaca"
       }
     ],
     "direction": "vertical"
@@ -90,6 +111,7 @@
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
     "Workflow/DailyTask/2022/June/2022-06-21.md",
+    "管理/Scrum vs waterfall.md",
     "Tron/logo申请.md",
     "Workflow/DailyTask/2022/June/2022-06-20.md",
     "Workflow/项目/切割标准品/现场端逻辑梳理.md",
@@ -97,7 +119,6 @@
     "C#/WPF/Dispatcher.md",
     "C#/线程/多线程.md",
     "Workflow/DailyTask/2022/June/2022-06-16.md",
-    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
-    "C#/ABP/AggregateRoot.md"
+    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md"
   ]
 }
