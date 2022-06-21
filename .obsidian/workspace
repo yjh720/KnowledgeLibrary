@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tron/logo申请.md",
+            "file": "Workflow/DailyTask/2022/June/2022-06-21.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tron/logo申请.md",
+                "file": "Workflow/DailyTask/2022/June/2022-06-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/June/2022-06-21.md",
     "Tron/logo申请.md",
     "Workflow/DailyTask/2022/June/2022-06-20.md",
     "Workflow/项目/切割标准品/现场端逻辑梳理.md",
@@ -97,7 +98,6 @@
     "C#/线程/多线程.md",
     "Workflow/DailyTask/2022/June/2022-06-16.md",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
-    "C#/ABP/AggregateRoot.md",
-    "C#/ABP/ABP.md"
+    "C#/ABP/AggregateRoot.md"
   ]
 }
