@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/June/2022-06-22.md",
+            "file": "管理/Scrum/Product Backlog.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/June/2022-06-22.md",
+                "file": "管理/Scrum/Product Backlog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "管理/Scrum/Product Backlog.md",
+    "管理/Scrum/Scrum整理.md",
     "Workflow/DailyTask/2022/June/2022-06-22.md",
     "Workflow/DailyTask/2022/June/2022-06-22.md",
-    "管理/Scrum整理.md",
-    "管理/Scrum.md",
+    "管理/Scrum/Scrum.md",
     "Workflow/人事/周艺峰离职聊天.md",
     "Workflow/人事/招聘/周艺峰离职聊天.md",
     "Workflow/人事/招聘/熊桓.md",
     "Workflow/人事/招聘/侯晓轩.md",
-    "Workflow/人事/招聘/路涛.md",
-    "Workflow/人事/招聘/沈浩-发那科.md"
+    "Workflow/人事/招聘/路涛.md"
   ]
 }
