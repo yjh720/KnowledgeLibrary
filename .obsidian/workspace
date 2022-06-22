@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/项目/切割标准品/测试软件UI设计.md",
+            "file": "Workflow/人事/招聘/招聘要求.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/项目/切割标准品/测试软件UI设计.md",
+                "file": "Workflow/人事/招聘/招聘要求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/招聘要求.md",
+    "管理/Scrum/Scrum整理.md",
+    "管理/Scrum/Product Backlog.md",
+    "管理/Scrum/Scrum学习.md",
     "Workflow/项目/切割标准品/测试软件UI设计.md",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
     "Workflow/项目/切割标准品/现场端逻辑梳理.md",
-    "管理/Scrum/Product Backlog.md",
-    "管理/Scrum/Scrum整理.md",
     "Workflow/DailyTask/2022/June/2022-06-22.md",
     "Workflow/DailyTask/2022/June/2022-06-22.md",
-    "管理/Scrum/Scrum.md",
-    "Workflow/人事/周艺峰离职聊天.md",
-    "Workflow/人事/招聘/周艺峰离职聊天.md"
+    "Workflow/人事/周艺峰离职聊天.md"
   ]
 }
