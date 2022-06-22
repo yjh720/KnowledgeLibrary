@@ -13,7 +13,8 @@
 
 预备材料：Product Owner->用户故事（需求）
 
-内容产出：Product Owner->经过讨论的用户故事（需求），Scrum Master->子任务(不包含时间，人员分配)
+内容产出：
+	Product Backlog：Product Owner->经过讨论的用户故事（需求），Scrum Master->子任务(不包含时间，人员分配)
 
 ## 迭代计划会议（Sprint Planning Meeting）
 参会成员：Product Owner，Scrum Master，Team（程序员、测试员、用户体验设计）

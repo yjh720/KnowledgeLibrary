@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "管理/Scrum.md",
+            "file": "管理/Scrum整理.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "管理/Scrum.md",
+                "file": "管理/Scrum整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
-    "管理/Scrum.md",
     "管理/Scrum整理.md",
+    "管理/Scrum.md",
     "Workflow/人事/周艺峰离职聊天.md",
     "Workflow/人事/招聘/周艺峰离职聊天.md",
     "Workflow/人事/招聘/熊桓.md",
