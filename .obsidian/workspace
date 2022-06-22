@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "管理/Scrum.md",
+            "file": "Workflow/人事/周艺峰离职聊天.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "管理/Scrum.md",
+                "file": "Workflow/人事/周艺峰离职聊天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/人事/周艺峰离职聊天.md",
+    "管理/Scrum整理.md",
     "管理/Scrum.md",
-    "Workflow/人事/招聘/周艺峰离职聊天1.md",
-    "Workflow/人事/林格离职聊天.md",
-    "Workflow/人事/何幸鑫林格离职群公告.md",
-    "Workflow/人事/2022-04-26文化奖惩提名.md",
-    "Workflow/人事/软件组人员安排.md",
-    "Workflow/人事/0506切割-焊接计划安排.md",
     "Workflow/人事/招聘/周艺峰离职聊天.md",
-    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
-    "Workflow/项目/切割标准品/现场端逻辑梳理.md"
+    "Workflow/人事/招聘/熊桓.md",
+    "Workflow/人事/招聘/侯晓轩.md",
+    "Workflow/人事/招聘/路涛.md",
+    "Workflow/人事/招聘/沈浩-发那科.md",
+    "Workflow/人事/招聘/谷夏绿.md",
+    "Workflow/人事/招聘/齐晨阳.md"
   ]
 }
