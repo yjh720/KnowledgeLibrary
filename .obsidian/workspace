@@ -6,7 +6,6 @@
       {
         "id": "1819340ca5478a9b",
         "type": "leaf",
-        "dimension": 36.549468520032704,
         "state": {
           "type": "markdown",
           "state": {
@@ -14,27 +13,7 @@
             "mode": "source",
             "source": false
           }
-        },
-        "group": "285e5493da2cbaca"
-      },
-      {
-        "id": "2ac758e148961f82",
-        "type": "leaf",
-        "dimension": 63.450531479967296,
-        "state": {
-          "type": "media-view",
-          "state": {
-            "info": {
-              "host": 0,
-              "id": "-wTRU-LKgEY",
-              "iframe": "https://www.youtube.com/embed/-wTRU-LKgEY",
-              "src": "https://www.youtube.com/watch?v=-wTRU-LKgEY",
-              "hash": ""
-            },
-            "currentTime": 445.8165310305176
-          }
-        },
-        "group": "285e5493da2cbaca"
+        }
       }
     ],
     "direction": "vertical"
@@ -111,14 +90,14 @@
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
     "管理/Scrum.md",
+    "Workflow/人事/招聘/周艺峰离职聊天1.md",
+    "Workflow/人事/林格离职聊天.md",
+    "Workflow/人事/何幸鑫林格离职群公告.md",
+    "Workflow/人事/2022-04-26文化奖惩提名.md",
+    "Workflow/人事/软件组人员安排.md",
+    "Workflow/人事/0506切割-焊接计划安排.md",
+    "Workflow/人事/招聘/周艺峰离职聊天.md",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
-    "Workflow/项目/切割标准品/现场端逻辑梳理.md",
-    "Workflow/DailyTask/2022/June/2022-06-21.md",
-    "Tron/logo申请.md",
-    "Workflow/DailyTask/2022/June/2022-06-20.md",
-    "Workflow/DailyTask/2022/June/2022-06-17.md",
-    "C#/WPF/Dispatcher.md",
-    "C#/线程/多线程.md",
-    "Workflow/DailyTask/2022/June/2022-06-16.md"
+    "Workflow/项目/切割标准品/现场端逻辑梳理.md"
   ]
 }
