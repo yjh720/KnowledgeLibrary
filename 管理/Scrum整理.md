@@ -11,7 +11,7 @@
 会议内容：
 由Product Owner将一批希望团队在下次迭代时实现的用户故事，按照**实现顺序**描述给在场的团队成员，Scrum Master与在场成员分析用户故事，明确指出团队认为需求不明确的地方，Product Owner现场记录，会后补全，Scrum Master与架构师，还有在场成员分析用户故事需要包含哪些技术任务，Scrum Master先把子任务建立，方便迭代计划会议的时候团队可以更准确地预估任务故事点。
 
-预备材料：Product Owner->用户故事（需求）
+预备材料：Product Owner->Product Backlog，用户故事（需求），优先级，验收标准
 
 内容产出：
 	Product Backlog：Product Owner->经过讨论的用户故事（需求），Scrum Master->子任务(不包含时间，人员分配)
