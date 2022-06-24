@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/June/2022-06-23.md",
+            "file": "管理/Scrum/Scrum整理.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/June/2022-06-23.md",
+                "file": "管理/Scrum/Scrum整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "管理/Scrum/Scrum整理.md",
+    "管理/Scrum/Scrum学习1.md",
+    "管理/Scrum/Scrum学习0.md",
+    "管理/Scrum/Product Backlog.md",
     "Workflow/DailyTask/2022/June/2022-06-23.md",
     "Workflow/项目/切割标准品/现场端各步骤错误约定.md",
     "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
     "Workflow/人事/新人学习资料_基础篇.md",
     "Workflow/DailyTask/2022/June/2022-06-22.md",
-    "管理/Scrum/Scrum1.md",
-    "管理/Scrum/Scrum学习0.md",
-    "管理/Scrum/Scrum整理.md",
-    "Workflow/人事/招聘/招聘要求.md",
-    "管理/Scrum/Product Backlog.md"
+    "Workflow/人事/招聘/招聘要求.md"
   ]
 }

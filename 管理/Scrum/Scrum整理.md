@@ -49,7 +49,7 @@
 -   今天你将要做什么?
 -   你有需要帮助的地方吗?
 
-## 评审会（Retrospective Meeting）
+## 评审会（Review Meeting）
 参会成员：Product Owner，Scrum Master，Team（程序员、测试员、用户体验设计），可能还有客户
 
 时间：一轮Sprint结束
