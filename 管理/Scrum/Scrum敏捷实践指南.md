@@ -102,3 +102,31 @@
 >%%TAGS%%
 >
 ^o4ihujftmrp
+
+
+>%%
+>```annotation-json
+>{"created":"2022-06-26T10:25:21.281Z","updated":"2022-06-26T10:25:21.281Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":31193,"end":31234},{"type":"TextQuoteSelector","exact":"工作重点就会从“管理协调”转向“促进合作”。促进者将帮助每个人各尽所能地思考和工作","prefix":"54.2.1.1 仆人式领导的促进作用项目经理成为仆人式领导时，","suffix":"。促进者鼓励团队参与、理解，并对团队输出共同承担责任。促进者帮助"}]}]}
+>```
+>%%
+>*%%PREFIX%%54.2.1.1 仆人式领导的促进作用项目经理成为仆人式领导时，%%HIGHLIGHT%% ==工作重点就会从“管理协调”转向“促进合作”。促进者将帮助每个人各尽所能地思考和工作== %%POSTFIX%%。促进者鼓励团队参与、理解，并对团队输出共同承担责任。促进者帮助*
+>%%LINK%%[[#^titfgckxjk9|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^titfgckxjk9
+
+
+>%%
+>```annotation-json
+>{"created":"2022-06-26T10:28:36.552Z","updated":"2022-06-26T10:28:36.552Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":32233,"end":32336},{"type":"TextQuoteSelector","exact":"除仆人式领导外，团队成员还要重视自身的人际关系技能和情商技能，而不仅仅是专业技能。团队中的每一个人都要努力展示更多的主动性、正直、情商、诚实、合作态度、谦逊和以不同方式沟通的意愿，才能促进整个团队的携手共进","prefix":"做的工作。以下是一些仆人式领导的职责示例：人际关系技能与专业技能","suffix":"。团队需要上述技能，才能对项目方向的变化和技术产品的变更做出积极"}]}]}
+>```
+>%%
+>*%%PREFIX%%做的工作。以下是一些仆人式领导的职责示例：人际关系技能与专业技能%%HIGHLIGHT%% ==除仆人式领导外，团队成员还要重视自身的人际关系技能和情商技能，而不仅仅是专业技能。团队中的每一个人都要努力展示更多的主动性、正直、情商、诚实、合作态度、谦逊和以不同方式沟通的意愿，才能促进整个团队的携手共进== %%POSTFIX%%。团队需要上述技能，才能对项目方向的变化和技术产品的变更做出积极*
+>%%LINK%%[[#^q9e79lk78l8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^q9e79lk78l8
