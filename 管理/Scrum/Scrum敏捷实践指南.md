@@ -60,3 +60,45 @@
 >%%TAGS%%
 >
 ^eylwvbw6wp7
+
+
+>%%
+>```annotation-json
+>{"created":"2022-06-26T10:06:32.428Z","updated":"2022-06-26T10:06:32.428Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":28675,"end":28717},{"type":"TextQuoteSelector","exact":"。项目采用敏捷方法亦或预测法，都无关紧要。要提出的问题是：“我们怎样做才能最成功？”","prefix":"项目管理的目标是在给定的当前环境下尽可能以最好的方式创造商业价值","suffix":"当团队创造价值时，是否需要反馈？如果需要，增量方法将会有所帮助。"}]}]}
+>```
+>%%
+>*%%PREFIX%%项目管理的目标是在给定的当前环境下尽可能以最好的方式创造商业价值%%HIGHLIGHT%% ==。项目采用敏捷方法亦或预测法，都无关紧要。要提出的问题是：“我们怎样做才能最成功？”== %%POSTFIX%%当团队创造价值时，是否需要反馈？如果需要，增量方法将会有所帮助。*
+>%%LINK%%[[#^xi1qwxturpa|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xi1qwxturpa
+
+
+>%%
+>```annotation-json
+>{"created":"2022-06-26T10:07:20.090Z","updated":"2022-06-26T10:07:20.090Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":28717,"end":28788},{"type":"TextQuoteSelector","exact":"当团队创造价值时，是否需要反馈？如果需要，增量方法将会有所帮助。在探讨各种想法时，是否需要管理风险？如果需要，迭代方法或敏捷方法将会有所帮助。","prefix":"或预测法，都无关紧要。要提出的问题是：“我们怎样做才能最成功？”","suffix":"当组织无法交付中间价值时，敏捷方法可能不是很有用。这样没有问题，"}]}]}
+>```
+>%%
+>*%%PREFIX%%或预测法，都无关紧要。要提出的问题是：“我们怎样做才能最成功？”%%HIGHLIGHT%% ==当团队创造价值时，是否需要反馈？如果需要，增量方法将会有所帮助。在探讨各种想法时，是否需要管理风险？如果需要，迭代方法或敏捷方法将会有所帮助。== %%POSTFIX%%当组织无法交付中间价值时，敏捷方法可能不是很有用。这样没有问题，*
+>%%LINK%%[[#^tap388pezyh|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^tap388pezyh
+
+
+>%%
+>```annotation-json
+>{"created":"2022-06-26T10:09:01.151Z","updated":"2022-06-26T10:09:01.151Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":29780,"end":29801},{"type":"TextQuoteSelector","exact":"即便他们使用一个特定的框架作为起点也不例外","prefix":"队可能需要对实践进行裁剪。通常，团队都会实践各自特殊的敏捷组合，","suffix":"。协调方法裁剪敏捷框架的一个例子是，一个广泛使用的常见协调方法涉"}]}]}
+>```
+>%%
+>*%%PREFIX%%队可能需要对实践进行裁剪。通常，团队都会实践各自特殊的敏捷组合，%%HIGHLIGHT%% ==即便他们使用一个特定的框架作为起点也不例外== %%POSTFIX%%。协调方法裁剪敏捷框架的一个例子是，一个广泛使用的常见协调方法涉*
+>%%LINK%%[[#^o4ihujftmrp|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^o4ihujftmrp
