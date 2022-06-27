@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/June/2022-06-25.md",
+            "file": "Workflow/DailyTask/2022/June/2022-06-27.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/June/2022-06-25.md",
+                "file": "Workflow/DailyTask/2022/June/2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/June/2022-06-27.md",
     "Workflow/DailyTask/2022/June/2022-06-25.md",
     "管理/Scrum/Scrum敏捷实践指南.md",
     "管理/Scrum/Scrum整理.md",
@@ -97,7 +98,6 @@
     "管理/人件.md",
     "书/AgilePG_CHI.pdf",
     "管理/Scrum/Product Backlog.md",
-    "管理/Scrum/Scrum学习0.md",
-    "管理/人月神话.md"
+    "管理/Scrum/Scrum学习0.md"
   ]
 }
