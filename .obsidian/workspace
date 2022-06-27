@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/文化奖惩/2022-06-27文化奖惩提名.md",
+            "file": "Workflow/DailyTask/2022/June/2022-06-27.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/文化奖惩/2022-06-27文化奖惩提名.md",
+                "file": "Workflow/DailyTask/2022/June/2022-06-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,11 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
-    "Workflow/人事/文化奖惩/2022-06-27文化奖惩提名.md",
     "Workflow/DailyTask/2022/June/2022-06-27.md",
+    "管理/Scrum/Scrum整理.md",
+    "Workflow/人事/文化奖惩/2022-06-27文化奖惩提名.md",
     "Workflow/DailyTask/2022/June/2022-06-25.md",
     "管理/Scrum/Scrum敏捷实践指南.md",
-    "管理/Scrum/Scrum整理.md",
     "管理/Scrum/Scrum敏捷开发：Git版本管理流程及规范.md",
     "Workflow/项目/切割标准品/现场端各步骤错误约定.md",
     "管理/人件.md",
