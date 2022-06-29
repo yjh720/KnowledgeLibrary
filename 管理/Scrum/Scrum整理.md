@@ -2,7 +2,7 @@
 
 # 5个会议
 ## 待办事项整理会议（Backlog Grooming Meeting）
-参会成员：Product Owner，Scrum Master，关键开发者，架构师
+参会成员：Product Owner，Scrum Master，关键开发者，架构师，Optional Team Leader（硬件，机械臂算法，视觉算法，电气）
 
 时间：代计划会议开始之前3天
 
