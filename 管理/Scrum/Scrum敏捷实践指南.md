@@ -130,3 +130,17 @@
 >%%TAGS%%
 >
 ^q9e79lk78l8
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-04T07:41:03.551Z","updated":"2022-07-04T07:41:03.551Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":36067,"end":36149},{"type":"TextQuoteSelector","exact":"当一个人在两个项目之间进行多任务切换时，他投入到每个项目上的精力并非各占  50%。相反，由于存在任务切换成本，他在每个项目上的投入降低到 20% 到 40%之间。","prefix":" 到 40% 之间。随着任务数量的增加，效率损失会呈指数级增长。","suffix":"人们在一心多用的时候更容易犯错误。任务切换消耗工作记忆，人们在多"}]}]}
+>```
+>%%
+>*%%PREFIX%%到 40% 之间。随着任务数量的增加，效率损失会呈指数级增长。%%HIGHLIGHT%% ==当一个人在两个项目之间进行多任务切换时，他投入到每个项目上的精力并非各占  50%。相反，由于存在任务切换成本，他在每个项目上的投入降低到 20% 到 40%之间。== %%POSTFIX%%人们在一心多用的时候更容易犯错误。任务切换消耗工作记忆，人们在多*
+>%%LINK%%[[#^3qpcirmer82|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3qpcirmer82
