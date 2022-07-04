@@ -144,3 +144,31 @@
 >%%TAGS%%
 >
 ^3qpcirmer82
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-04T08:42:52.771Z","updated":"2022-07-04T08:42:52.771Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":38243,"end":38390},{"type":"TextQuoteSelector","exact":"u 团队价值观，例如可持续的开发速度和核心工作时间；uu 工作协议，例如“就绪”如何定义，这是团队可以接受工作的前提；“完成”如何定义，这样团队才能一致地判断完整性；考虑时间盒；或使用工作过程限制；uu 基本规则，例如有关一个人在会议上发言的规定；以及uu 团队规范，例如团队如何对待会议时间。","prefix":"队成员制定章程的一些建议，可以将其作为制定团队社会契约的基础：u","suffix":"仆人式领导可以与团队一起决定处理其他行为。请记住，团队的社会契约"}]}]}
+>```
+>%%
+>*%%PREFIX%%队成员制定章程的一些建议，可以将其作为制定团队社会契约的基础：u%%HIGHLIGHT%% ==u 团队价值观，例如可持续的开发速度和核心工作时间；uu 工作协议，例如“就绪”如何定义，这是团队可以接受工作的前提；“完成”如何定义，这样团队才能一致地判断完整性；考虑时间盒；或使用工作过程限制；uu 基本规则，例如有关一个人在会议上发言的规定；以及uu 团队规范，例如团队如何对待会议时间。== %%POSTFIX%%仆人式领导可以与团队一起决定处理其他行为。请记住，团队的社会契约*
+>%%LINK%%[[#^pi6inzajdrn|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^pi6inzajdrn
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-04T08:45:52.834Z","updated":"2022-07-04T08:45:52.834Z","document":{"title":"%E4%B9%A6AgilePG_CHI.pdf","link":[{"href":"urn:x-pdf:c8082c3071414c25928d8b536d7253f0"},{"href":"vault:/%E4%B9%A6AgilePG_CHI.pdf"}],"documentFingerprint":"c8082c3071414c25928d8b536d7253f0"},"uri":"vault:/%E4%B9%A6AgilePG_CHI.pdf","target":[{"source":"vault:/%E4%B9%A6AgilePG_CHI.pdf","selector":[{"type":"TextPositionSelector","start":37955,"end":38068},{"type":"TextQuoteSelector","exact":"u 我们为什么要做这个项目？这是项目愿景。uu 谁会从中受益？如何受益？这可能是项目愿景和/或项目目标的一部分。uu 对此项目而言，达到哪些条件才意味着项目完成？这些是项目的发布标准。uu 我们将怎样合作？这说明预期的工作流。","prefix":"景或目标，以及一组清晰的工作协议。敏捷项目章程要回答以下问题：u","suffix":"仆人式领导可以促进章程的制定过程。团队可以通过一起工作实现协作，"}]}]}
+>```
+>%%
+>*%%PREFIX%%景或目标，以及一组清晰的工作协议。敏捷项目章程要回答以下问题：u%%HIGHLIGHT%% ==u 我们为什么要做这个项目？这是项目愿景。uu 谁会从中受益？如何受益？这可能是项目愿景和/或项目目标的一部分。uu 对此项目而言，达到哪些条件才意味着项目完成？这些是项目的发布标准。uu 我们将怎样合作？这说明预期的工作流。== %%POSTFIX%%仆人式领导可以促进章程的制定过程。团队可以通过一起工作实现协作，*
+>%%LINK%%[[#^nhqfo9tkuco|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nhqfo9tkuco
