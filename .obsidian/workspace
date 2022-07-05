@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/Blazor/Blazor基础.md",
+            "file": "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/Blazor/Blazor基础.md",
+                "file": "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,8 @@
   },
   "active": "1819340ca5478a9b",
   "lastOpenFiles": [
+    "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
+    "Workflow/DailyTask/2022/July/2022-07-05.md",
     "C#/Blazor/Blazor基础.md",
     "C#/ABP/DDD.md",
     "管理/Scrum/Srcum学习1.md",
@@ -110,8 +112,6 @@
     "Workflow/DailyTask/2022/July/2022-07-04.md",
     "管理/Scrum/Scrum敏捷实践指南.md",
     "管理/Scrum/Scrum敏捷开发：Git版本管理流程及规范.md",
-    "管理/Scrum/Scrum整理.md",
-    "管理/Scrum/Product Backlog.md",
-    "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md"
+    "管理/Scrum/Scrum整理.md"
   ]
 }
