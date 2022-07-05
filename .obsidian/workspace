@@ -6,24 +6,37 @@
       {
         "id": "1819340ca5478a9b",
         "type": "leaf",
-        "dimension": 43.669871794871796,
+        "dimension": 29.567307692307693,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/杨帅.md",
+            "file": "Workflow/人事/招聘/李晋.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "5099c609c141112c",
+        "id": "0397d6cdd540dda1",
         "type": "leaf",
-        "dimension": 56.330128205128204,
+        "dimension": 33.33333333333333,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
+            "file": "Workflow/人事/招聘/陈凌.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "f26533ecc3630666",
+        "type": "leaf",
+        "dimension": 37.09935897435898,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/人事/招聘流程.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
+                "file": "Workflow/人事/招聘/李晋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +114,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5099c609c141112c",
+  "active": "1819340ca5478a9b",
   "lastOpenFiles": [
-    "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
+    "Workflow/人事/招聘/李晋.md",
     "Workflow/人事/招聘流程.md",
+    "Workflow/人事/招聘/陈哲.md",
+    "Workflow/人事/招聘/陈凌.md",
     "Workflow/人事/招聘/杨帅.md",
+    "Workflow/项目/切割标准品/Sprint/1轮/Backlog Grooming Note.md",
+    "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
     "Workflow/人事/周艺峰离职聊天.md",
     "Workflow/人事/招聘/黄鑫华/Pasted image 20220704150051.png",
-    "Workflow/人事/招聘/陈凌.md",
-    "Workflow/DailyTask/2022/July/2022-07-05.md",
-    "C#/Blazor/Blazor基础.md",
-    "C#/ABP/DDD.md",
-    "管理/Scrum/Srcum学习1.md"
+    "Workflow/DailyTask/2022/July/2022-07-05.md"
   ]
 }
