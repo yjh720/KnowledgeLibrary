@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/WPF/依赖属性Dependency Property.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-06.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "b0695b2fb7b4057f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/人事/招聘/陈凌.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "c19bf889bcc2033c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/人事/招聘流程.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384
+    "width": 368
   },
   "right": {
     "id": "8c56449f67c52c47",
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF/依赖属性Dependency Property.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +113,15 @@
   },
   "active": "61d79c80877194fe",
   "lastOpenFiles": [
-    "C#/WPF/依赖属性Dependency Property.md",
     "Workflow/DailyTask/2022/July/2022-07-06.md",
+    "Workflow/人事/招聘/李进佛.md",
     "Workflow/人事/招聘流程.md",
+    "Workflow/人事/招聘/陈凌.md",
+    "C#/WPF/依赖属性Dependency Property.md",
     "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
     "Workflow/人事/招聘/陈美军.md",
-    "Workflow/人事/招聘/陈凌.md",
     "Workflow/DailyTask/2022/July/2022-07-04.md",
     "Workflow/DailyTask/2022/July/2022-07-05.md",
-    "Workflow/人事/招聘/武学文.md",
-    "Workflow/项目/HGG/General.md"
+    "Workflow/人事/招聘/武学文.md"
   ]
 }
