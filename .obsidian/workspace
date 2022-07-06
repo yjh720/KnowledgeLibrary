@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/项目/HGG/General.md",
+            "file": "Workflow/人事/招聘/武学文.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "53d0fc678f2c12a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/人事/招聘流程.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/项目/HGG/General.md",
+                "file": "Workflow/人事/招聘/武学文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +101,15 @@
   },
   "active": "a96409357eaeafef",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/武学文.md",
     "Workflow/项目/HGG/General.md",
+    "Workflow/人事/招聘流程.md",
     "Workflow/项目/切割标准品/相机滑轨方案.md",
     "C#/Blazor/Blazor基础.md",
-    "Workflow/人事/招聘流程.md",
     "Workflow/人事/招聘/谈兵兵.md",
     "Workflow/DailyTask/2022/July/2022-07-05.md",
     "Workflow/人事/招聘/李晋.md",
     "Workflow/人事/招聘/陈凌.md",
-    "Workflow/人事/招聘/陈哲.md",
-    "Workflow/人事/招聘/杨帅.md"
+    "Workflow/人事/招聘/陈哲.md"
   ]
 }
