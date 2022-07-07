@@ -4,36 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b0695b2fb7b4057f",
+        "id": "57eb1a2280106222",
         "type": "leaf",
+        "dimension": 29.415954415954417,
         "state": {
-          "type": "markdown",
+          "type": "pdf-annotator",
           "state": {
-            "file": "Workflow/人事/招聘/代鑫.md",
-            "mode": "source",
-            "source": false
+            "file": "C#/WPF/深入浅出WPF.md"
           }
         }
       },
       {
-        "id": "cfebc918243e070d",
+        "id": "b85db800b634be7e",
         "type": "leaf",
+        "dimension": 70.58404558404558,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/陈凌.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "562c22838a4a8eb0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/人事/招聘流程.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-07.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/代鑫.md",
+                "file": "C#/WPF/深入浅出WPF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b0695b2fb7b4057f",
+  "active": "57eb1a2280106222",
   "lastOpenFiles": [
+    "C#/WPF/深入浅出WPF.md",
+    "Workflow/DailyTask/2022/July/2022-07-07.md",
     "Workflow/人事/招聘/代鑫.md",
+    "C.md",
     "C#/WPF/附加属性.md",
     "Workflow/人事/新人学习资料_基础篇.md",
     "Workflow/人事/招聘流程.md",
     "Workflow/项目/切割标准品/相机滑轨方案.md",
     "Workflow/人事/招聘/肖桂华.md",
-    "Workflow/人事/招聘/陈凌.md",
-    "Workflow/DailyTask/2022/July/2022-07-07.md",
-    "Workflow/DailyTask/2022/July/2022-07-06.md",
-    "Workflow/人事/招聘/李进佛.md"
+    "Workflow/人事/招聘/陈凌.md"
   ]
 }
