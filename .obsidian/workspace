@@ -8,9 +8,11 @@
         "type": "leaf",
         "dimension": 29.415954415954417,
         "state": {
-          "type": "pdf-annotator",
+          "type": "markdown",
           "state": {
-            "file": "C#/WPF/深入浅出WPF.md"
+            "file": "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF/深入浅出WPF.md",
+                "file": "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
   },
   "active": "57eb1a2280106222",
   "lastOpenFiles": [
+    "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
     "C#/WPF/深入浅出WPF.md",
     "Workflow/DailyTask/2022/July/2022-07-07.md",
     "Workflow/人事/招聘/代鑫.md",
@@ -109,7 +112,6 @@
     "Workflow/人事/新人学习资料_基础篇.md",
     "Workflow/人事/招聘流程.md",
     "Workflow/项目/切割标准品/相机滑轨方案.md",
-    "Workflow/人事/招聘/肖桂华.md",
-    "Workflow/人事/招聘/陈凌.md"
+    "Workflow/人事/招聘/肖桂华.md"
   ]
 }
