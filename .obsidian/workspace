@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/WPF/附加属性.md",
+            "file": "Workflow/人事/招聘/代鑫.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/WPF/附加属性.md",
+                "file": "Workflow/人事/招聘/代鑫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,7 @@
   },
   "active": "b0695b2fb7b4057f",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/代鑫.md",
     "C#/WPF/附加属性.md",
     "Workflow/人事/新人学习资料_基础篇.md",
     "Workflow/人事/招聘流程.md",
@@ -121,7 +122,6 @@
     "Workflow/人事/招聘/陈凌.md",
     "Workflow/DailyTask/2022/July/2022-07-07.md",
     "Workflow/DailyTask/2022/July/2022-07-06.md",
-    "Workflow/人事/招聘/李进佛.md",
-    "C#/WPF/依赖属性Dependency Property.md"
+    "Workflow/人事/招聘/李进佛.md"
   ]
 }
