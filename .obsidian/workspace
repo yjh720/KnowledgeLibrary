@@ -6,24 +6,10 @@
       {
         "id": "57eb1a2280106222",
         "type": "leaf",
-        "dimension": 29.415954415954417,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "b85db800b634be7e",
-        "type": "leaf",
-        "dimension": 70.58404558404558,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-07.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-08.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-07.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b85db800b634be7e",
+  "active": "57eb1a2280106222",
   "lastOpenFiles": [
-    "Workflow/DailyTask/2022/July/2022-07-07.md",
+    "Workflow/DailyTask/2022/July/2022-07-08.md",
     "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
+    "Templates/DailyTask Template.md",
+    "Workflow/DailyTask/2022/July/2022-07-08.md",
+    "Workflow/DailyTask/2022/July/2022-07-07.md",
     "C#/WPF/深入浅出WPF.md",
     "Workflow/人事/招聘/代鑫.md",
     "C.md",
     "C#/WPF/附加属性.md",
-    "Workflow/人事/新人学习资料_基础篇.md",
-    "Workflow/人事/招聘流程.md",
-    "Workflow/项目/切割标准品/相机滑轨方案.md",
-    "Workflow/人事/招聘/肖桂华.md"
+    "Workflow/人事/新人学习资料_基础篇.md"
   ]
 }
