@@ -9,7 +9,31 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-08.md",
+            "file": "Workflow/人事/招聘/殷城.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9e7de37753bd4218",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/人事/招聘/陈凌.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8380f0b896f7fed4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/人事/招聘流程.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 294
   },
   "right": {
     "id": "8c56449f67c52c47",
@@ -69,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-08.md",
+                "file": "Workflow/人事/招聘/殷城.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +113,15 @@
   },
   "active": "57eb1a2280106222",
   "lastOpenFiles": [
-    "Workflow/DailyTask/2022/July/2022-07-08.md",
-    "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
-    "Templates/DailyTask Template.md",
-    "Workflow/DailyTask/2022/July/2022-07-08.md",
-    "Workflow/DailyTask/2022/July/2022-07-07.md",
-    "C#/WPF/深入浅出WPF.md",
-    "Workflow/人事/招聘/代鑫.md",
-    "C.md",
-    "C#/WPF/附加属性.md",
-    "Workflow/人事/新人学习资料_基础篇.md"
+    "Workflow/人事/招聘/殷城.md",
+    "Workflow/人事/招聘流程.md",
+    "管理/Scrum/Scrum学习0.md",
+    "Workflow/人事/招聘/杨春鑫.md",
+    "管理/Scrum/Product Backlog.md",
+    "管理/Scrum/Scrum整理.md",
+    "管理/Scrum/Srcum学习1.md",
+    "管理/Scrum/Scrum敏捷开发：Git版本管理流程及规范.md",
+    "Workflow/项目/切割标准品/切割产品6.17号验收流程标准.md",
+    "Workflow/项目/切割标准品/现场端逻辑梳理.md"
   ]
 }
