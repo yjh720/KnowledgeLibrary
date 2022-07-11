@@ -6,37 +6,10 @@
       {
         "id": "57eb1a2280106222",
         "type": "leaf",
-        "dimension": 31.979695431472084,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/通识/运算符/问号，Null 条件运算符.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "9e7de37753bd4218",
-        "type": "leaf",
-        "dimension": 34.85617597292725,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/人事/招聘/陈凌.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "8380f0b896f7fed4",
-        "type": "leaf",
-        "dimension": 33.16412859560068,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/人事/招聘流程.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-11.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/通识/运算符/问号，Null 条件运算符.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +89,15 @@
   },
   "active": "57eb1a2280106222",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/July/2022-07-11.md",
+    "C#/设计模式/状态模式.md",
+    "C#/设计模式/深入模式设计.md",
+    "C#/设计模式/行为模式.md",
     "C#/通识/运算符/问号，Null 条件运算符.md",
+    "管理/Scrum/Scrum整理.md",
+    "管理/Scrum/Scrum敏捷开发：Git版本管理流程及规范.md",
     "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
     "Workflow/人事/招聘/殷城.md",
-    "Workflow/人事/招聘流程.md",
-    "管理/Scrum/Scrum学习0.md",
-    "Workflow/人事/招聘/杨春鑫.md",
-    "管理/Scrum/Product Backlog.md",
-    "管理/Scrum/Scrum整理.md",
-    "管理/Scrum/Srcum学习1.md",
-    "管理/Scrum/Scrum敏捷开发：Git版本管理流程及规范.md"
+    "Workflow/人事/招聘流程.md"
   ]
 }
