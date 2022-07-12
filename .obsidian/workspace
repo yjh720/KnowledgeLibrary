@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-11.md",
+            "file": "Workflow/人事/招聘/代鑫.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-11.md",
+                "file": "Workflow/人事/招聘/代鑫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,8 @@
   },
   "active": "57eb1a2280106222",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/代鑫.md",
+    "Workflow/DailyTask/2022/July/2022-07-12.md",
     "Workflow/DailyTask/2022/July/2022-07-11.md",
     "C#/设计模式/状态模式.md",
     "C#/设计模式/深入模式设计.md",
@@ -96,8 +98,6 @@
     "C#/通识/运算符/问号，Null 条件运算符.md",
     "管理/Scrum/Scrum整理.md",
     "管理/Scrum/Scrum敏捷开发：Git版本管理流程及规范.md",
-    "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
-    "Workflow/人事/招聘/殷城.md",
-    "Workflow/人事/招聘流程.md"
+    "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md"
   ]
 }
