@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "57eb1a2280106222",
+        "id": "6fdbd146ffe944a4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UED",
+                "query": "tag:#装箱拆箱概念",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,17 +87,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "57eb1a2280106222",
+  "active": "6fdbd146ffe944a4",
   "lastOpenFiles": [
     "C#/通识/泛型.md",
+    "Workflow/Obisidian使用指南/双向链接.md",
+    "C#/通识/装箱拆箱.md",
+    "投资/2022巴菲特股东大会.md",
+    "投资/基金经理.md",
+    "Workflow/其他/上位机配置.md",
     "Workflow/DailyTask/2022/July/2022-07-12.md",
     "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
     "C#/通识/扩展方法.md",
-    "Workflow/DailyTask/2022/July/未命名.md",
-    "Workflow/人事/招聘/代鑫.md",
-    "Workflow/DailyTask/2022/July/2022-07-11.md",
-    "C#/设计模式/状态模式.md",
-    "C#/设计模式/深入模式设计.md",
-    "C#/设计模式/行为模式.md"
+    "Workflow/DailyTask/2022/July/未命名.md"
   ]
 }
