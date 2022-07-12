@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-12.md",
+            "file": "C#/通识/泛型.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-12.md",
+                "file": "C#/通识/泛型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "57eb1a2280106222",
   "lastOpenFiles": [
+    "C#/通识/泛型.md",
     "Workflow/DailyTask/2022/July/2022-07-12.md",
     "Workflow/项目/切割标准品/Sprint/2轮/Retrospective Note.md",
     "C#/通识/扩展方法.md",
@@ -97,7 +98,6 @@
     "Workflow/DailyTask/2022/July/2022-07-11.md",
     "C#/设计模式/状态模式.md",
     "C#/设计模式/深入模式设计.md",
-    "C#/设计模式/行为模式.md",
-    "C#/通识/运算符/问号，Null 条件运算符.md"
+    "C#/设计模式/行为模式.md"
   ]
 }
