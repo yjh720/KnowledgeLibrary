@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/朱晓玮.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-13.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/朱晓玮.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6fdbd146ffe944a4",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/July/2022-07-13.md",
+    "Workflow/DailyTask/2022/July/未命名.md",
     "Workflow/人事/招聘/朱晓玮.md",
     "C#/线程/多线程.md",
     "Workflow/人事/招聘流程.md",
-    "Workflow/DailyTask/2022/July/2022-07-13.md",
     "C#/通识/泛型.md",
     "Workflow/Obisidian使用指南/双向链接.md",
     "C#/通识/装箱拆箱.md",
     "投资/2022巴菲特股东大会.md",
-    "投资/基金经理.md",
-    "Workflow/其他/上位机配置.md"
+    "投资/基金经理.md"
   ]
 }
