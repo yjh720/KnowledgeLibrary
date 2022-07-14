@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-14.md",
+            "file": "Workflow/人事/聊天/Maria聊天.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-14.md",
+                "file": "Workflow/人事/聊天/Maria聊天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "88da10273a8ce186",
   "lastOpenFiles": [
+    "Workflow/人事/聊天/Maria聊天.md",
+    "Workflow/人事/招聘流程.md",
     "Workflow/DailyTask/2022/July/2022-07-14.md",
     "Workflow/DailyTask/2022/July/2022-07-13.md",
     "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
@@ -108,8 +110,6 @@
     "C#/通识/base用法.md",
     "C#/通识/扩展方法.md",
     "C#/通识/using用法.md",
-    "C#/奇技淫巧/为类扩展方法.md",
-    "Workflow/人事/招聘流程.md",
-    "Workflow/人事/招聘/李雪.md"
+    "C#/奇技淫巧/为类扩展方法.md"
   ]
 }
