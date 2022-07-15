@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/公用模块的方法.md",
+            "file": "管理/Scrum/Retrospective Meeting.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/公用模块的方法.md",
+                "file": "管理/Scrum/Retrospective Meeting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0d2a47c93cedc3f1",
   "lastOpenFiles": [
+    "管理/Scrum/Retrospective Meeting.md",
+    "Workflow/DailyTask/2022/July/2022-07-13.md",
+    "Workflow/DailyTask/2022/July/2022-07-14.md",
     "Git/公用模块的方法.md",
     "Git/subtree的使用方法.md",
     "Git/fork分支同步远程方法.md",
     "Workflow/项目/HGG/General.md",
     "Workflow/项目/切割标准品/Sprint/1轮/Retrospective Note.md",
     "Workflow/人事/聊天/Maria聊天.md",
-    "Workflow/人事/招聘流程.md",
-    "Workflow/DailyTask/2022/July/2022-07-14.md",
-    "Workflow/DailyTask/2022/July/2022-07-13.md",
-    "C#/通识/this用法.md"
+    "Workflow/人事/招聘流程.md"
   ]
 }
