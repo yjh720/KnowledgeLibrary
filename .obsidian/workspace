@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/Tech/代码拆分/Scoop安装.md",
+            "file": "Workflow/Tech/代码拆分/git not defined问题解决.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/Tech/代码拆分/Scoop安装.md",
+                "file": "Workflow/Tech/代码拆分/git not defined问题解决.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "8ad2e92882769a24",
   "lastOpenFiles": [
-    "Workflow/Tech/WSL/安装YUM.md",
+    "Workflow/Tech/代码拆分/Scoop安装.md",
     "Workflow/DailyTask/2022/July/2022-07-18.md",
+    "Workflow/Tech/WSL/安装YUM.md",
     "Workflow/Tech/代码拆分/代码拆分工具.md",
     "Workflow/DailyTask/2022/July/2022-07-15.md",
     "Workflow/Tech/WSL/安装WSL2.md",
     "Workflow/人事/招聘/詹强.md",
     "管理/Scrum/Retrospective Meeting.md",
     "Workflow/DailyTask/2022/July/2022-07-14.md",
-    "Workflow/DailyTask/2022/July/2022-07-13.md",
-    "Git/公用模块的方法.md"
+    "Workflow/DailyTask/2022/July/2022-07-13.md"
   ]
 }
