@@ -21,7 +21,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/Tech/安装WSL2.md",
+            "file": "Workflow/Tech/代码拆分/代码拆分工具.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "8ad2e92882769a24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/Tech/WSL/安装YUM.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/Tech/安装WSL2.md",
+                "file": "Workflow/Tech/WSL/安装YUM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +111,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04406b141a462600",
+  "active": "8ad2e92882769a24",
   "lastOpenFiles": [
-    "Workflow/Tech/安装WSL2.md",
+    "Workflow/Tech/WSL/安装WSL2.md",
+    "Workflow/Tech/代码拆分/代码拆分工具.md",
     "Workflow/DailyTask/2022/July/2022-07-18.md",
     "Workflow/人事/招聘/詹强.md",
     "管理/Scrum/Retrospective Meeting.md",
@@ -109,7 +122,6 @@
     "Workflow/DailyTask/2022/July/2022-07-14.md",
     "Workflow/DailyTask/2022/July/2022-07-13.md",
     "Git/公用模块的方法.md",
-    "Git/subtree的使用方法.md",
-    "Git/fork分支同步远程方法.md"
+    "Git/subtree的使用方法.md"
   ]
 }
