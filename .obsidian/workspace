@@ -101,6 +101,8 @@
   },
   "active": "04406b141a462600",
   "lastOpenFiles": [
+    "Workflow/Tech/Git/添加远程分支.md",
+    "Workflow/Tech/代码拆分/subTree.md",
     "Workflow/Tech/代码拆分/代码拆分工具.md",
     "Workflow/Tech/代码拆分/git not defined问题解决.md",
     "Workflow/Tech/代码拆分/Scoop安装.md",
@@ -108,8 +110,6 @@
     "Workflow/Tech/WSL/安装YUM.md",
     "Workflow/DailyTask/2022/July/2022-07-15.md",
     "Workflow/Tech/WSL/安装WSL2.md",
-    "Workflow/人事/招聘/詹强.md",
-    "管理/Scrum/Retrospective Meeting.md",
-    "Workflow/DailyTask/2022/July/2022-07-14.md"
+    "Workflow/人事/招聘/詹强.md"
   ]
 }
