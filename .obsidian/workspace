@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-18.md",
+            "file": "Workflow/Tech/安装WSL2.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-18.md",
+                "file": "Workflow/Tech/安装WSL2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "04406b141a462600",
   "lastOpenFiles": [
+    "Workflow/Tech/安装WSL2.md",
     "Workflow/DailyTask/2022/July/2022-07-18.md",
     "Workflow/人事/招聘/詹强.md",
     "管理/Scrum/Retrospective Meeting.md",
@@ -109,7 +110,6 @@
     "Workflow/DailyTask/2022/July/2022-07-13.md",
     "Git/公用模块的方法.md",
     "Git/subtree的使用方法.md",
-    "Git/fork分支同步远程方法.md",
-    "Workflow/项目/HGG/General.md"
+    "Git/fork分支同步远程方法.md"
   ]
 }
