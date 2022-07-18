@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "0d2a47c93cedc3f1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-15.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "04406b141a462600",
         "type": "leaf",
         "state": {
@@ -34,6 +22,18 @@
           "type": "markdown",
           "state": {
             "file": "Workflow/Tech/WSL/安装YUM.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "87627d93115b452c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/DailyTask/2022/July/2022-07-18.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/Tech/WSL/安装YUM.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,17 +111,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ad2e92882769a24",
+  "active": "87627d93115b452c",
   "lastOpenFiles": [
+    "Workflow/Tech/WSL/安装YUM.md",
+    "Workflow/DailyTask/2022/July/2022-07-15.md",
     "Workflow/Tech/WSL/安装WSL2.md",
     "Workflow/Tech/代码拆分/代码拆分工具.md",
     "Workflow/DailyTask/2022/July/2022-07-18.md",
     "Workflow/人事/招聘/詹强.md",
     "管理/Scrum/Retrospective Meeting.md",
-    "Workflow/DailyTask/2022/July/2022-07-15.md",
     "Workflow/DailyTask/2022/July/2022-07-14.md",
     "Workflow/DailyTask/2022/July/2022-07-13.md",
-    "Git/公用模块的方法.md",
-    "Git/subtree的使用方法.md"
+    "Git/公用模块的方法.md"
   ]
 }
