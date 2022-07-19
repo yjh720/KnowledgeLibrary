@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/Tech/Git/修改remote地址.md",
+            "file": "Workflow/Tech/代码拆分/代码拆分工具.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/Tech/Git/修改remote地址.md",
+                "file": "Workflow/Tech/代码拆分/代码拆分工具.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,14 +102,14 @@
   "active": "04406b141a462600",
   "lastOpenFiles": [
     "Workflow/Tech/代码拆分/subTree.md",
+    "Workflow/Tech/代码拆分/Scoop安装.md",
+    "Workflow/Tech/代码拆分/git not defined问题解决.md",
+    "Workflow/Tech/Git/修改remote地址.md",
     "Workflow/Tech/Git/添加远程分支.md",
     "Workflow/Tech/代码拆分/代码拆分工具.md",
-    "Workflow/Tech/代码拆分/git not defined问题解决.md",
-    "Workflow/Tech/代码拆分/Scoop安装.md",
     "Workflow/DailyTask/2022/July/2022-07-18.md",
     "Workflow/Tech/WSL/安装YUM.md",
     "Workflow/DailyTask/2022/July/2022-07-15.md",
-    "Workflow/Tech/WSL/安装WSL2.md",
-    "Workflow/人事/招聘/詹强.md"
+    "Workflow/Tech/WSL/安装WSL2.md"
   ]
 }
