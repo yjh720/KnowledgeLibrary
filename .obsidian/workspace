@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/孙君屹.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-19.md",
             "mode": "source",
             "source": false
           }
@@ -33,7 +33,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-18.md",
+            "file": "Git/公用模块的方法.md",
             "mode": "source",
             "source": false
           }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/孙君屹.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "04406b141a462600",
   "lastOpenFiles": [
-    "Workflow/人事/招聘流程.md",
+    "Git/subtree的使用方法.md",
+    "Git/fork分支同步远程方法.md",
     "Workflow/人事/招聘/孙君屹.md",
+    "Git/公用模块的方法.md",
     "Workflow/Tech/代码拆分/代码拆分工具.md",
-    "Workflow/Tech/代码拆分/subTree.md",
-    "Workflow/Tech/代码拆分/Scoop安装.md",
-    "Workflow/Tech/代码拆分/git not defined问题解决.md",
     "Workflow/Tech/Git/修改remote地址.md",
     "Workflow/Tech/Git/添加远程分支.md",
-    "Workflow/DailyTask/2022/July/2022-07-18.md",
-    "Workflow/Tech/WSL/安装YUM.md"
+    "Workflow/Tech/代码拆分/subTree.md",
+    "Workflow/Tech/代码拆分/git not defined问题解决.md",
+    "Workflow/DailyTask/2022/July/2022-07-18.md"
   ]
 }
