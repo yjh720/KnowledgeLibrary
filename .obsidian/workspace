@@ -6,7 +6,7 @@
       {
         "id": "585de0951d7c62f3",
         "type": "leaf",
-        "dimension": 26.543878656554718,
+        "dimension": 37.61622992392223,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -21,37 +21,11 @@
       {
         "id": "5ad44e9d3b4fc0c0",
         "type": "leaf",
-        "dimension": 15.763813651137593,
+        "dimension": 62.383770076077774,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/张斌.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3f4a7a70b67d10ad",
-        "type": "leaf",
-        "dimension": 15.763813651137593,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "C.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0db78f503beaf260",
-        "type": "leaf",
-        "dimension": 41.9284940411701,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/人事/招聘流程.md",
+            "file": "C#/WPF/依赖属性Dependency Property.md",
             "mode": "source",
             "source": false
           }
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/张斌.md",
+                "file": "C#/WPF/依赖属性Dependency Property.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +105,15 @@
   },
   "active": "5ad44e9d3b4fc0c0",
   "lastOpenFiles": [
-    "C.md",
-    "Workflow/人事/招聘/张斌.md",
     "Workflow/DailyTask/2022/July/2022-07-21.md",
+    "C#/WPF/依赖属性Dependency Property.md",
+    "C#/WPF/附加属性.md",
+    "C#/WPF/控件/GridSplitter.md",
+    "Workflow/人事/招聘/张斌.md",
     "Workflow/人事/招聘流程.md",
+    "C.md",
     "Workflow/DailyTask/2022/July/2022-07-20.md",
     "Workflow/人事/新人学习资料_基础篇.md",
-    "Workflow/人事/软件组人员安排.md",
-    "Workflow/人事/何幸鑫林格离职群公告.md",
-    "Workflow/人事/0506切割-焊接计划安排.md",
-    "Workflow/项目/切割标准品/Sprint/3轮/2022-07-21.md"
+    "Workflow/人事/软件组人员安排.md"
   ]
 }
