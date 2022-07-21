@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘流程.md",
+            "file": "Workflow/DailyTask/2022/July/2022-07-21.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-20.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "47eb7bad4a0ab024",
+  "active": "585de0951d7c62f3",
   "lastOpenFiles": [
-    "Workflow/人事/招聘流程.md",
     "Workflow/DailyTask/2022/July/2022-07-20.md",
+    "Workflow/DailyTask/2022/July/2022-07-21.md",
+    "Workflow/人事/招聘流程.md",
     "Workflow/人事/新人学习资料_基础篇.md",
     "Workflow/人事/软件组人员安排.md",
     "Workflow/人事/何幸鑫林格离职群公告.md",
     "Workflow/人事/0506切割-焊接计划安排.md",
     "Workflow/项目/切割标准品/Sprint/3轮/2022-07-21.md",
     "Workflow/项目/切割标准品/Sprint/1轮/Backlog Grooming Note.md",
-    "Workflow/其他/上位机配置.md",
-    "Git/修改remote地址.md"
+    "Workflow/其他/上位机配置.md"
   ]
 }
