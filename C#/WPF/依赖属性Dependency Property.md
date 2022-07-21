@@ -297,3 +297,4 @@ public int MyProperty
     </Grid>
 </Window>
 ```
+
