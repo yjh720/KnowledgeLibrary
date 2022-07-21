@@ -33,6 +33,8 @@ public class Pikachu : DependencyObject
 7. 希望使用已建立的、WPF 进程也使用的元数据约定，例如报告更改属性值时是否要求布局系统重新编写元素的可视化对象。
 
 # 依赖属性的特点
+[WPF教程：依赖属性 - .NET开发菜鸟 - 博客园 (cnblogs.com)](https://www.cnblogs.com/dotnet261010/p/6286475.html)
+
 ## 属性变更通知 
 无论什么时候，只要依赖属性的值发生改变，wpf就会自动根据属性的元数据触发一系列的动作，这些动作可以重新呈现UI元素，也可以更新当前的布局，刷新数据绑定等等，这种变更的通知最有趣的特点之一就是属性触发器，它可以在属性值改变的时候，执行一系列自定义的动作，而不需要更改任何其他的代码来实现。通过下面的示例来演示属性变更通知
 
@@ -153,4 +155,145 @@ namespace WpfDemo
 
 # 如何自定义依赖属性
 1. 声明依赖属性变量。依赖属性的声明都是通过public static来公开一个静态变量，变量的类型必须是DependencyProperty
-2. 
+2. 在属性系统中进行注册。使用DependencyProperty.Register方法来注册依赖属性，或者是使用DependencyProperty.RegisterReadOnly方法来注册
+3. 使用.NET属性包装依赖属性
+
+在类上实现属性时，只要该类派生自 DependencyObject，便可以选择使用 DependencyProperty 标识符来标示属性，从而将其设置为依赖属性。其语法如下：
+```C#
+public static DependencyProperty TextProperty;
+       TextProperty =
+       DependencyProperty.Register("Text", //属性名称
+       typeof(string), //属性类型
+       typeof(TestDependencyPropertyWindow), //该属性所有者，即将该属性注册到那个类上
+       new PropertyMetadata("")); //属性默认值
+
+public string Text
+{
+   get { return (string)GetValue(TextProperty); }
+   set { SetValue(TextProperty, value); }
+}
+```
+
+
+示例：自定义一个依赖属性，界面包括一个TextBox和TextBlock，TextBlock上面字体的前景色随TextBox里面输入的颜色而改变，如果TextBox里面输入的值可以转换成颜色，TextBlock字体的前景色会显示输入的颜色值，如果不能转换，显示默认的前景色。
+
+1. 在当前项目里面添加一个WPF版的用户控件，命名为“MyDependencyProperty”，在MyDependencyProperty.xaml.cs文件里面自定义一个依赖属性：
+
+```C#
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+namespace WpfDemo
+{
+    /// <summary>
+    /// MyDependencyProperty.xaml 的交互逻辑
+    /// </summary>
+    public partial class MyDependencyProperty : UserControl
+    {
+        public MyDependencyProperty()
+        {
+            InitializeComponent();
+        }
+
+        //1、声明依赖属性变量
+        public static readonly DependencyProperty MyColorProperty;
+
+        //2、在属性系统中进行注册
+        static MyDependencyProperty()
+        {
+            MyColorProperty = DependencyProperty.Register("MyColor", typeof(string), typeof(MyDependencyProperty),
+                new PropertyMetadata("Red", (s, e) =>
+                {
+                    var mdp = s as MyDependencyProperty;
+                    if (mdp != null)
+                    {
+                        try
+                        {
+                            var color = (Color)ColorConverter.ConvertFromString(e.NewValue.ToString());
+                            mdp.Foreground = new SolidColorBrush(color);
+                        }
+                        catch
+                        {
+                            mdp.Foreground = new SolidColorBrush(Colors.Black);
+                        }
+                    }
+
+                }));
+        }
+
+        //3、使用.NET属性包装依赖属性:属性名称与注册时候的名称必须一致，
+        //即属性名MyColor对应注册时的MyColor
+        public string MyColor
+        {
+            get
+            {
+                return (string)GetValue(MyColorProperty);
+            }
+            set
+            {
+                SetValue(MyColorProperty, value);
+            }
+        }
+    }
+}
+```
+
+快速定义依赖属性的快捷方式：
+
+输入propdp，连续按两下Tab健，自动生成定义依赖属性的语法。和输入cw连续按两下Tab健，自动生成Console.Write()一样。
+
+```C#
+public int MyProperty
+        {
+            get { return (int)GetValue(MyPropertyProperty); }
+            set { SetValue(MyPropertyProperty, value); }
+        }
+
+        // Using a DependencyProperty as the backing store for MyProperty.  This enables animation, styling, binding, etc...
+        public static readonly DependencyProperty MyPropertyProperty =
+            DependencyProperty.Register("MyProperty", typeof(int), typeof(ownerclass), new PropertyMetadata(0));
+```
+
+2. 在MyDependencyProperty.xaml里面添加一个TextBlock
+
+```xml
+<UserControl x:Class="WpfDemo.MyDependencyProperty"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <TextBlock>我是自定义的依赖属性</TextBlock>
+    </Grid>
+</UserControl>
+```
+
+3. 在MainWindow.xaml里面引用新创建的用户控件，并添加一个TextBox，用于输入颜色值，并将自定义的依赖属性MyColor绑定到TextBox
+```C#
+<Window x:Class="WpfDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:p="clr-namespace:WpfDemo"
+        Title="依赖属性" Height="237" Width="525" WindowStartupLocation="CenterScreen">
+    <Grid >
+        <StackPanel>
+            <TextBox Name="tbColor"></TextBox>
+            <p:MyDependencyProperty MyColor="{Binding Path=Text,ElementName=tbColor}" ></p:MyDependencyProperty>
+        </StackPanel>
+    </Grid>
+</Window>
+```
