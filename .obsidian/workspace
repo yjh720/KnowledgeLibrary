@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "c20d1d45ae23c91d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "C#/ABP/ABP启动流程.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-22.md",
+                "file": "C#/ABP/ABP启动流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,10 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ad44e9d3b4fc0c0",
+  "active": "c20d1d45ae23c91d",
   "lastOpenFiles": [
-    "Workflow/待办事项备忘录.md",
     "Workflow/DailyTask/2022/July/2022-07-22.md",
+    "Workflow/待办事项备忘录.md",
     "Workflow/DailyTask/2022/July/2022-07-21.md",
     "C#/WPF/附加属性.md",
     "C#/WPF/依赖属性Dependency Property.md",
