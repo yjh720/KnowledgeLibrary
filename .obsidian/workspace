@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/ABP/ABP启动流程.md",
+            "file": "C#/ABP/ABP的简单步骤/创建实体.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-22.md",
+                "file": "C#/ABP/ABP的简单步骤/创建实体.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ad44e9d3b4fc0c0",
+  "active": "c20d1d45ae23c91d",
   "lastOpenFiles": [
+    "C#/ABP/流程.md",
+    "C#/ABP/Module/ABP开源学习项目.md",
     "C#/ABP/ABP启动流程.md",
+    "C#/ABP/DDD.md",
+    "C#/ABP/ABP.md",
     "Workflow/DailyTask/2022/July/2022-07-22.md",
     "Workflow/待办事项备忘录.md",
     "Workflow/DailyTask/2022/July/2022-07-21.md",
     "C#/WPF/附加属性.md",
-    "C#/WPF/依赖属性Dependency Property.md",
-    "C#/WPF/控件/GridSplitter.md",
-    "Workflow/人事/招聘/张斌.md",
-    "Workflow/人事/招聘流程.md",
-    "C.md"
+    "C#/WPF/依赖属性Dependency Property.md"
   ]
 }
