@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "C#/ABP/ABP的简单步骤/5. 实现仓储类.md",
+            "file": "C#/ABP/ABP的简单步骤/8. 创建Web Api服务.md",
             "mode": "source",
             "source": false
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/ABP/ABP的简单步骤/5. 实现仓储类.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c20d1d45ae23c91d",
+  "active": "5ad44e9d3b4fc0c0",
   "lastOpenFiles": [
+    "C#/ABP/ABP的简单步骤/8. 创建Web Api服务.md",
+    "C#/ABP/ABP的简单步骤/7. 数据验证.md",
+    "C#/ABP/ABP的简单步骤/6. 创建应用服务Application Service.md",
+    "C#/ABP/ABP的简单步骤/5. 实现仓储类.md",
     "C#/ABP/ABP的简单步骤/1. 创建实体.md",
     "C#/ABP/ABP的简单步骤/4. 定义仓储接口.md",
     "C#/ABP/ABP的简单步骤/3. 通过Database Migrations创建数据库表.md",
     "C#/ABP/ABP的简单步骤/2. 创建DbContext.md",
     "Workflow/DailyTask/2022/July/2022-07-22.md",
-    "C#/ABP/流程.md",
-    "C#/ABP/Module/ABP开源学习项目.md",
-    "C#/ABP/ABP启动流程.md",
-    "C#/ABP/DDD.md",
-    "C#/ABP/ABP.md"
+    "C#/ABP/流程.md"
   ]
 }
