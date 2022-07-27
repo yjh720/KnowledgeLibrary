@@ -6,10 +6,11 @@
       {
         "id": "5e0cccb9c420d36f",
         "type": "leaf",
+        "dimension": 45.93908629441624,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/新人学习资料_基础篇.md",
+            "file": "Workflow/人事/聊天/齐晨阳聊天.md",
             "mode": "source",
             "source": false
           }
@@ -18,6 +19,7 @@
       {
         "id": "d4d51ae86b483640",
         "type": "leaf",
+        "dimension": 54.06091370558376,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-27.md",
+                "file": "Workflow/人事/聊天/齐晨阳聊天.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +103,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4d51ae86b483640",
+  "active": "5e0cccb9c420d36f",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/July/2022-07-27.md",
     "Workflow/人事/新人学习资料_基础篇.md",
     "Workflow/人事/招聘/韦杭钏（chuan）.md",
-    "Workflow/DailyTask/2022/July/2022-07-27.md",
     "Workflow/DailyTask/2022/July/2022-07-26.md",
     "Workflow/人事/招聘/詹强.md",
     "Workflow/DailyTask/2022/July/2022-07-25.md",
