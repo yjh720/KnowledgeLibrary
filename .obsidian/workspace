@@ -9,10 +9,24 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/人事/招聘/韦杭钏（chuan）.md",
+            "file": "Workflow/人事/新人学习资料_基础篇.md",
             "mode": "source",
             "source": false
           }
+        }
+      },
+      {
+        "id": "d4d51ae86b483640",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/DailyTask/2022/July/2022-07-27.md",
+            "mode": "source",
+            "source": false
+          },
+          "pinned": true
         }
       }
     ],
@@ -69,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/招聘/韦杭钏（chuan）.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e0cccb9c420d36f",
+  "active": "d4d51ae86b483640",
   "lastOpenFiles": [
+    "Workflow/人事/新人学习资料_基础篇.md",
+    "Workflow/人事/招聘/韦杭钏（chuan）.md",
     "Workflow/DailyTask/2022/July/2022-07-27.md",
     "Workflow/DailyTask/2022/July/2022-07-26.md",
     "Workflow/人事/招聘/詹强.md",
@@ -96,8 +112,6 @@
     "C#/WPF/控件/GridSplitter.md",
     "C#/ABP/ABP的简单步骤/8. 创建Web Api服务.md",
     "C#/ABP/ABP的简单步骤/7. 数据验证.md",
-    "C#/ABP/ABP的简单步骤/6. 创建应用服务Application Service.md",
-    "C#/ABP/ABP的简单步骤/5. 实现仓储类.md",
-    "C#/ABP/ABP的简单步骤/4. 定义仓储接口.md"
+    "C#/ABP/ABP的简单步骤/6. 创建应用服务Application Service.md"
   ]
 }
