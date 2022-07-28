@@ -7,3 +7,12 @@
 * 0-10, rate your team spirit
 
 ---
+
+Daosen Testing process
+
+Planning service is not good, shaking
+
+communication with niejiakang is wrong, takes a long time 
+
+youcheng organize very well
+
