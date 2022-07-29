@@ -4,5 +4,11 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "fileSortOrder": "byModifiedTime",
-  "attachmentFolderPath": ""
+  "attachmentFolderPath": "",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
