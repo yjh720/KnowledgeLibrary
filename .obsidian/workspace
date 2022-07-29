@@ -16,6 +16,18 @@
           },
           "pinned": true
         }
+      },
+      {
+        "id": "8aba69c816206149",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Workflow/项目/切割标准品/Sprint/3轮/Review.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/DailyTask/2022/July/2022-07-28.md",
+                "file": "Workflow/项目/切割标准品/Sprint/3轮/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a8fc87e0a7c91009",
+  "active": "8aba69c816206149",
   "lastOpenFiles": [
+    "Workflow/DailyTask/2022/July/2022-07-28.md",
+    "Workflow/DailyTask/2022/July/2022-07-21 1.md",
     "Workflow/人事/招聘/孙君屹.md",
     "Workflow/人事/KPI/2022Q2KPI.md",
     "C#/ABP/ApplicationService不是单例.md",
     "Workflow/DailyTask/2022/July/2022-07-29.md",
-    "Workflow/DailyTask/2022/July/2022-07-28.md",
     "Workflow/人事/招聘流程.md",
     "Workflow/人事/招聘/未命名.md",
     "Workflow/人事/聊天/Maria聊天.md",
-    "Workflow/项目/切割标准品/机器人变量交替写入方案.md",
-    "C#/反射/反射-创建对象-破坏单例（私有方法）.md"
+    "Workflow/项目/切割标准品/机器人变量交替写入方案.md"
   ]
 }
