@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a8fc87e0a7c91009",
+        "id": "8aba69c816206149",
         "type": "leaf",
         "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/DailyTask/2022/July/2022-07-28.md",
+            "file": "Workflow/项目/切割标准品/Sprint/3轮/Review.md",
             "mode": "source",
             "source": false
           },
@@ -18,12 +18,12 @@
         }
       },
       {
-        "id": "8aba69c816206149",
+        "id": "a2b48a7fb125964a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Workflow/项目/切割标准品/Sprint/3轮/Review.md",
+            "file": "管理/Scrum/Retrospective Meeting.md",
             "mode": "source",
             "source": false
           }
@@ -103,15 +103,15 @@
   },
   "active": "8aba69c816206149",
   "lastOpenFiles": [
+    "管理/Scrum/Retrospective Meeting.md",
+    "Workflow/项目/切割标准品/Sprint/3轮/Review.md",
+    "Workflow/人事/KPI/2022Q2KPI.md",
     "Workflow/DailyTask/2022/July/2022-07-28.md",
     "Workflow/DailyTask/2022/July/2022-07-21 1.md",
     "Workflow/人事/招聘/孙君屹.md",
-    "Workflow/人事/KPI/2022Q2KPI.md",
     "C#/ABP/ApplicationService不是单例.md",
     "Workflow/DailyTask/2022/July/2022-07-29.md",
     "Workflow/人事/招聘流程.md",
-    "Workflow/人事/招聘/未命名.md",
-    "Workflow/人事/聊天/Maria聊天.md",
-    "Workflow/项目/切割标准品/机器人变量交替写入方案.md"
+    "Workflow/人事/招聘/未命名.md"
   ]
 }
