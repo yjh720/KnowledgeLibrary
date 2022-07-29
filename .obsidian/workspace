@@ -4,30 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "adbf6b2768f496e6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Workflow/人事/招聘/孙君屹.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c66f084dbf317bf3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "C#/ABP/ApplicationService不是单例.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "a8fc87e0a7c91009",
         "type": "leaf",
         "pinned": true,
@@ -95,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C#/ABP/ApplicationService不是单例.md",
+                "file": "Workflow/DailyTask/2022/July/2022-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +89,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c66f084dbf317bf3",
+  "active": "a8fc87e0a7c91009",
   "lastOpenFiles": [
+    "Workflow/人事/招聘/孙君屹.md",
+    "Workflow/人事/KPI/2022Q2KPI.md",
+    "C#/ABP/ApplicationService不是单例.md",
     "Workflow/DailyTask/2022/July/2022-07-29.md",
     "Workflow/DailyTask/2022/July/2022-07-28.md",
     "Workflow/人事/招聘流程.md",
-    "Workflow/人事/招聘/孙君屹.md",
     "Workflow/人事/招聘/未命名.md",
     "Workflow/人事/聊天/Maria聊天.md",
     "Workflow/项目/切割标准品/机器人变量交替写入方案.md",
-    "C#/反射/反射-创建对象-破坏单例（私有方法）.md",
-    "C#/反射/反射-属性字段.md",
-    "C#/反射/反射-方法.md"
+    "C#/反射/反射-创建对象-破坏单例（私有方法）.md"
   ]
 }
