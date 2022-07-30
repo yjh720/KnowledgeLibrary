@@ -26,3 +26,5 @@
 
 
 * 真实速度对应
+CameraSnapSucceed = await (cameraService?.SnapAsync(trackPosition)).FuckNull(false);
+CameraSnapSucceed = await (cameraService?.SnapAsync(1));
