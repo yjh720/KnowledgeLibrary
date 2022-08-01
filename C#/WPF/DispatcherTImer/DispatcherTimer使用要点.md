@@ -1,0 +1,3 @@
+[(21条消息) dispatcherTimer自我学习总结(转贴)_chenshizero的博客-CSDN博客_dispatchertimer](https://blog.csdn.net/chenyuxu0/article/details/4983734?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-4983734-blog-10295157.pc_relevant_multi_platform_featuressortv2dupreplace&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1-4983734-blog-10295157.pc_relevant_multi_platform_featuressortv2dupreplace&utm_relevant_index=1)
+
+Dispatcher 类提供了到 WPF 中消息泵的通道，还提供了一种机制来路由供 UI 线程处理的工作。这对满足线程关联要求是必要的，但是对通过 Dispatcher 路由的每个工作来说，UI 线程都被阻止，因此使 Dispatcher 完成的工作小而快非常重要。最好将用户界面的大块工作拆分为较小的离散块，以便 Dispatcher 执行。任何不需要在 UI 线程上完成的工作应移到其他线程上，以便在后台进行处理。
