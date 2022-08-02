@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Workflow/人事/JD/架构师.md",
+                "file": "Workflow/DailyTask/2022/August/2022-08-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "68ca25ecf8e85f89",
+  "active": "a2b48a7fb125964a",
   "lastOpenFiles": [
+    "Workflow/人事/JD/架构师.md",
     "Workflow/DailyTask/2022/August/2022-08-02.md",
     "Workflow/DailyTask/2022/August/2022-08-01.md",
     "C#/通识/运算符/问号，Null 条件运算符.md",
@@ -111,7 +112,6 @@
     "C#/特性/常见特性.md",
     "C#/反射/反射-优缺点.md",
     "C#/WPF/DispatcherTImer/DispatcherTimer使用要点.md",
-    "家庭组网/光猫桥接.md",
-    "C#/反射/反射-属性字段.md"
+    "家庭组网/光猫桥接.md"
   ]
 }
